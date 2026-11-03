@@ -27,7 +27,3 @@ Imputed prices/quantities are **estimates**, not known transaction values. The 1
 ## Reproduce
 With Python and Pandas installed, run `python cleaning_pipeline.py` inside this directory. This creates `cleaned_sales.csv`, `cleaning_audit.csv`, and `flagged_unit_prices.csv`.
 
-
-Cleaned a 1,000-row synthetic e-commerce dataset by removing 50 exact duplicates, handling 95 missing values with documented median-based imputation, standardizing 65 city labels and 35 order statuses, and normalizing 42 dates. Identified 15 suspicious negative prices and preserved them for review rather than silently changing them. Delivered a cleaned CSV, an audit dataset, and a concise cleaning report.
-
-**My role:** Data cleaning, quality checks, and reporting. **Tools:** Python, Pandas, CSV.
