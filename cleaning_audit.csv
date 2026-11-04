@@ -1,0 +1,951 @@
+Order_ID,Customer,City,Product,Quantity,Unit_Price,Order_Date,Status,Unit_Price_Imputed,Quantity_Imputed
+ORD-0112,Customer 007,Amman,Keyboard,3.0,9.11,2026-04-17,Delivered,False,False
+ORD-0444,Customer 170,Aqaba,USB Drive,5.0,-5.0,2026-08-23,Cancelled,False,False
+ORD-0309,Customer 194,Irbid,Notebook,1.0,44.46,2026-08-18,Cancelled,False,False
+ORD-0588,Customer 016,Amman,Mouse,5.0,58.63,2026-06-09,Cancelled,False,False
+ORD-0532,Customer 184,Irbid,Notebook,3.0,32.04,2026-06-10,Pending,False,False
+ORD-0550,Customer 184,Salt,Keyboard,5.0,18.2,2026-10-28,Pending,False,False
+ORD-0421,Customer 130,Amman,Notebook,2.0,50.94,2026-05-04,Delivered,False,False
+ORD-0133,Customer 172,Zarqa,Mouse,5.0,47.65,2026-04-02,Pending,True,False
+ORD-0195,Customer 037,Irbid,Keyboard,3.0,38.03,2026-07-04,Pending,False,True
+ORD-0213,Customer 099,Aqaba,Headphones,1.0,16.4,2026-10-02,Cancelled,False,False
+ORD-0655,Customer 011,Aqaba,Notebook,1.0,50.77,2026-06-04,Cancelled,True,False
+ORD-0891,Customer 166,Amman,USB Drive,1.0,59.79,2026-06-11,Pending,False,False
+ORD-0692,Customer 108,Amman,Keyboard,3.0,62.2,2026-01-25,Delivered,False,True
+ORD-0313,Customer 012,Zarqa,Headphones,2.0,29.18,2026-02-04,Pending,False,False
+ORD-0224,Customer 175,Zarqa,Mouse,2.0,42.24,2026-06-17,Pending,False,False
+ORD-0789,Customer 082,Aqaba,Keyboard,3.0,9.64,2026-03-04,Delivered,False,False
+ORD-0561,Customer 179,Zarqa,Keyboard,4.0,42.83,2026-03-09,Delivered,False,False
+ORD-0930,Customer 029,Salt,Headphones,5.0,95.84,2026-06-04,Pending,False,False
+ORD-0462,Customer 136,Aqaba,Headphones,5.0,-5.0,2026-02-28,Pending,False,False
+ORD-0713,Customer 166,Irbid,Mouse,4.0,68.36,2026-03-04,Delivered,False,False
+ORD-0165,Customer 047,Salt,Notebook,3.0,50.6,2026-02-05,Pending,False,False
+ORD-0183,Customer 115,Salt,Notebook,1.0,21.48,2026-07-10,Pending,False,False
+ORD-0527,Customer 107,Zarqa,Notebook,5.0,87.92,2026-04-14,Cancelled,False,False
+ORD-0623,Customer 193,Aqaba,Keyboard,4.0,25.94,2026-10-08,Delivered,False,False
+ORD-0551,Customer 012,Amman,Notebook,3.0,75.16,2026-05-03,Pending,False,False
+ORD-0337,Customer 198,Amman,USB Drive,2.0,39.03,2026-03-24,Pending,False,False
+ORD-0820,Customer 191,Irbid,Keyboard,2.0,80.72,2026-09-23,Cancelled,False,False
+ORD-0822,Customer 206,Aqaba,Mouse,3.0,64.73,2026-10-21,Pending,False,True
+ORD-0514,Customer 099,Aqaba,Keyboard,4.0,81.0,2026-05-15,Delivered,False,False
+ORD-0113,Customer 033,Amman,Headphones,5.0,35.86,2026-04-28,Pending,False,False
+ORD-0043,Customer 021,Irbid,Keyboard,5.0,40.34,2026-04-09,Delivered,False,False
+ORD-0806,Customer 152,Amman,Headphones,4.0,79.54,2026-02-06,Pending,False,False
+ORD-0406,Customer 089,Irbid,Notebook,2.0,40.81,2026-08-07,Delivered,False,False
+ORD-0606,Customer 150,Amman,Headphones,5.0,79.03,2026-06-13,Pending,False,False
+ORD-0261,Customer 167,Irbid,Notebook,1.0,50.77,2026-08-16,Delivered,True,False
+ORD-0291,Customer 035,Aqaba,Keyboard,3.0,39.77,2026-06-05,Pending,False,False
+ORD-0871,Customer 083,Aqaba,Headphones,1.0,70.59,2026-01-12,Delivered,False,False
+ORD-0830,Customer 030,Amman,Notebook,1.0,39.36,2026-04-27,Cancelled,False,False
+ORD-0273,Customer 103,Aqaba,USB Drive,4.0,56.49,2026-03-11,Pending,False,False
+ORD-0587,Customer 029,Aqaba,Notebook,3.0,55.1,2026-02-10,Delivered,False,False
+ORD-0035,Customer 058,Aqaba,Mouse,4.0,54.16,2026-07-03,Delivered,False,False
+ORD-0122,Customer 037,Zarqa,Headphones,2.0,52.81,2026-05-03,Delivered,True,False
+ORD-0319,Customer 099,Salt,Headphones,5.0,52.81,2026-03-05,Delivered,True,False
+ORD-0440,Customer 002,Salt,Keyboard,4.0,74.15,2026-08-08,Pending,False,False
+ORD-0144,Customer 073,Aqaba,Mouse,4.0,44.13,2026-08-25,Cancelled,False,False
+ORD-0924,Customer 027,Irbid,USB Drive,5.0,54.31999999999999,2026-07-14,Delivered,True,False
+ORD-0895,Customer 029,Aqaba,Mouse,2.0,5.72,2026-06-12,Delivered,False,False
+ORD-0542,Customer 057,Amman,USB Drive,5.0,85.91,2026-07-16,Pending,False,False
+ORD-0447,Customer 183,Aqaba,Mouse,5.0,92.22,2026-05-15,Cancelled,False,False
+ORD-0316,Customer 134,Salt,USB Drive,5.0,54.31999999999999,2026-03-27,Pending,True,False
+ORD-0150,Customer 192,Zarqa,Notebook,2.0,79.33,2026-03-18,Cancelled,False,False
+ORD-0913,Customer 058,Irbid,Notebook,3.0,64.38,2026-05-04,Cancelled,False,False
+ORD-0630,Customer 125,Zarqa,Notebook,2.0,83.3,2026-06-26,Pending,False,False
+ORD-0096,Customer 094,Aqaba,USB Drive,4.0,70.63,2026-04-18,Cancelled,False,False
+ORD-0693,Customer 129,Amman,Notebook,3.0,29.32,2026-01-04,Cancelled,False,True
+ORD-0458,Customer 010,Salt,Headphones,3.0,85.48,2026-02-03,Delivered,False,True
+ORD-0333,Customer 099,Salt,Mouse,1.0,6.33,2026-08-09,Pending,False,False
+ORD-0681,Customer 089,Irbid,Notebook,4.0,85.61,2026-03-20,Cancelled,False,False
+ORD-0083,Customer 057,Irbid,Mouse,1.0,79.99,2026-08-27,Cancelled,False,False
+ORD-0106,Customer 117,Zarqa,Mouse,1.0,9.6,2026-02-06,Delivered,False,False
+ORD-0575,Customer 073,Aqaba,Keyboard,5.0,13.24,2026-06-23,Cancelled,False,False
+ORD-0452,Customer 217,Amman,USB Drive,3.0,81.34,2026-04-27,Pending,False,False
+ORD-0691,Customer 102,Amman,Headphones,5.0,48.61,2026-10-06,Pending,False,False
+ORD-0079,Customer 194,Irbid,Keyboard,4.0,10.49,2026-01-04,Cancelled,False,False
+ORD-0200,Customer 197,Irbid,Mouse,3.0,31.98,2026-03-14,Delivered,False,False
+ORD-0614,Customer 059,Zarqa,Notebook,2.0,40.04,2026-02-01,Cancelled,False,False
+ORD-0394,Customer 065,Salt,Notebook,2.0,18.57,2026-06-18,Delivered,False,False
+ORD-0480,Customer 162,Amman,Mouse,4.0,37.69,2026-01-04,Pending,False,False
+ORD-0024,Customer 048,Aqaba,Headphones,1.0,17.69,2026-07-04,Cancelled,False,False
+ORD-0221,Customer 159,Aqaba,Mouse,2.0,68.53,2026-03-28,Delivered,False,False
+ORD-0934,Customer 141,Irbid,USB Drive,5.0,58.48,2026-01-03,Pending,False,False
+ORD-0053,Customer 070,Salt,USB Drive,4.0,63.93,2026-06-05,Delivered,False,False
+ORD-0555,Customer 067,Zarqa,Keyboard,3.0,50.58,2026-05-20,Delivered,False,False
+ORD-0709,Customer 070,Aqaba,Notebook,3.0,-5.0,2026-05-04,Cancelled,False,False
+ORD-0149,Customer 059,Aqaba,Mouse,4.0,35.34,2026-06-13,Cancelled,False,False
+ORD-0334,Customer 140,Amman,Keyboard,3.0,37.04,2026-07-18,Pending,False,False
+ORD-0645,Customer 023,Aqaba,USB Drive,5.0,-5.0,2026-05-06,Pending,False,False
+ORD-0294,Customer 166,Amman,Notebook,5.0,50.77,2026-09-03,Pending,True,False
+ORD-0745,Customer 170,Amman,Keyboard,4.0,11.58,2026-10-17,Delivered,False,False
+ORD-0524,Customer 030,Salt,Notebook,2.0,41.88,2026-08-16,Delivered,False,False
+ORD-0902,Customer 084,Amman,Headphones,2.0,96.87,2026-05-23,Pending,False,False
+ORD-0066,Customer 137,Salt,Notebook,3.0,98.51,2026-02-07,Cancelled,False,True
+ORD-0385,Customer 205,Salt,Headphones,2.0,68.63,2026-07-19,Cancelled,False,False
+ORD-0089,Customer 078,Irbid,Headphones,5.0,46.02,2026-01-13,Pending,False,False
+ORD-0252,Customer 183,Irbid,Headphones,3.0,86.47,2026-03-06,Pending,False,True
+ORD-0287,Customer 047,Aqaba,Headphones,4.0,56.54,2026-10-14,Pending,False,False
+ORD-0366,Customer 006,Salt,USB Drive,1.0,59.29,2026-03-23,Delivered,False,False
+ORD-0137,Customer 047,Amman,Notebook,4.0,95.88,2026-04-20,Delivered,False,False
+ORD-0768,Customer 191,Zarqa,Mouse,3.0,12.0,2026-07-05,Pending,False,False
+ORD-0884,Customer 120,Salt,Keyboard,5.0,85.95,2026-10-27,Pending,False,False
+ORD-0652,Customer 027,Amman,Notebook,5.0,85.49,2026-08-28,Pending,False,False
+ORD-0347,Customer 202,Irbid,Headphones,1.0,57.08,2026-06-25,Cancelled,False,False
+ORD-0804,Customer 005,Aqaba,Notebook,3.0,76.57,2026-05-13,Cancelled,False,False
+ORD-0281,Customer 074,Salt,Mouse,3.0,30.71,2026-09-23,Pending,False,False
+ORD-0814,Customer 124,Amman,Headphones,4.0,36.95,2026-03-22,Delivered,False,False
+ORD-0870,Customer 190,Aqaba,USB Drive,5.0,57.19,2026-03-20,Cancelled,False,False
+ORD-0552,Customer 137,Zarqa,Mouse,5.0,68.82,2026-10-22,Pending,False,False
+ORD-0512,Customer 050,Amman,USB Drive,2.0,31.98,2026-05-07,Cancelled,False,False
+ORD-0102,Customer 098,Amman,Notebook,3.0,28.38,2026-06-18,Delivered,False,False
+ORD-0039,Customer 124,Aqaba,USB Drive,5.0,68.46,2026-05-08,Pending,False,False
+ORD-0040,Customer 081,Amman,Keyboard,5.0,63.4,2026-01-06,Delivered,False,False
+ORD-0007,Customer 051,Amman,Mouse,2.0,87.26,2026-02-25,Delivered,False,False
+ORD-0569,Customer 114,Amman,Notebook,1.0,50.77,2026-03-23,Pending,True,False
+ORD-0764,Customer 048,Aqaba,Notebook,3.0,11.95,2026-01-15,Delivered,False,False
+ORD-0666,Customer 145,Aqaba,Keyboard,1.0,50.78,2026-10-02,Delivered,False,False
+ORD-0373,Customer 086,Amman,Notebook,2.0,97.38,2026-10-18,Cancelled,False,False
+ORD-0449,Customer 151,Zarqa,Headphones,3.0,68.9,2026-10-19,Pending,False,False
+ORD-0342,Customer 087,Salt,USB Drive,3.0,56.28,2026-04-03,Pending,False,False
+ORD-0669,Customer 135,Zarqa,USB Drive,5.0,48.52,2026-07-06,Delivered,False,False
+ORD-0810,Customer 148,Amman,Notebook,4.0,36.61,2026-10-08,Pending,False,False
+ORD-0790,Customer 039,Aqaba,USB Drive,1.0,11.92,2026-09-07,Cancelled,False,False
+ORD-0374,Customer 069,Aqaba,Headphones,2.0,31.36,2026-06-16,Pending,False,False
+ORD-0720,Customer 120,Aqaba,Headphones,4.0,30.15,2026-08-06,Delivered,False,False
+ORD-0205,Customer 209,Salt,Keyboard,4.0,94.61,2026-02-18,Pending,False,False
+ORD-0154,Customer 154,Amman,Headphones,2.0,66.6,2026-01-11,Pending,False,False
+ORD-0732,Customer 038,Amman,Headphones,5.0,18.46,2026-04-07,Pending,False,False
+ORD-0567,Customer 082,Zarqa,USB Drive,5.0,65.46,2026-05-23,Delivered,False,False
+ORD-0718,Customer 060,Salt,Mouse,2.0,24.85,2026-05-18,Cancelled,False,False
+ORD-0381,Customer 162,Salt,Notebook,4.0,67.87,2026-05-03,Pending,False,False
+ORD-0349,Customer 186,Irbid,USB Drive,2.0,26.56,2026-03-05,Delivered,False,False
+ORD-0241,Customer 073,Zarqa,Notebook,2.0,21.53,2026-09-03,Pending,False,False
+ORD-0217,Customer 076,Salt,Mouse,1.0,49.38,2026-10-17,Delivered,False,False
+ORD-0944,Customer 176,Irbid,USB Drive,4.0,54.23,2026-10-17,Delivered,False,False
+ORD-0495,Customer 043,Zarqa,Mouse,2.0,58.46,2026-04-02,Cancelled,False,False
+ORD-0888,Customer 204,Aqaba,USB Drive,3.0,92.31,2026-09-28,Delivered,False,False
+ORD-0760,Customer 031,Irbid,Mouse,3.0,47.65,2026-02-18,Cancelled,True,False
+ORD-0762,Customer 052,Aqaba,Headphones,5.0,66.79,2026-04-20,Pending,False,False
+ORD-0829,Customer 210,Irbid,Headphones,2.0,78.05,2026-04-18,Delivered,False,False
+ORD-0878,Customer 169,Zarqa,Headphones,5.0,83.32,2026-07-12,Pending,False,False
+ORD-0848,Customer 138,Irbid,Keyboard,1.0,38.45,2026-09-24,Pending,False,False
+ORD-0429,Customer 118,Amman,Headphones,3.0,6.45,2026-04-16,Pending,False,False
+ORD-0115,Customer 204,Aqaba,Keyboard,4.0,36.0,2026-07-26,Pending,False,False
+ORD-0314,Customer 182,Salt,USB Drive,5.0,-5.0,2026-07-10,Pending,False,False
+ORD-0892,Customer 030,Irbid,Notebook,4.0,5.91,2026-04-08,Cancelled,False,False
+ORD-0077,Customer 183,Zarqa,Headphones,2.0,53.83,2026-08-25,Pending,False,False
+ORD-0487,Customer 098,Amman,Notebook,2.0,67.59,2026-03-10,Pending,False,False
+ORD-0311,Customer 114,Amman,Notebook,4.0,28.84,2026-02-24,Cancelled,False,False
+ORD-0581,Customer 110,Aqaba,Headphones,3.0,52.81,2026-04-19,Delivered,True,False
+ORD-0052,Customer 128,Salt,Notebook,2.0,12.64,2026-03-02,Cancelled,False,False
+ORD-0782,Customer 164,Amman,Keyboard,5.0,11.36,2026-01-05,Delivered,False,False
+ORD-0417,Customer 056,Aqaba,Mouse,1.0,69.81,2026-02-04,Delivered,False,False
+ORD-0465,Customer 038,Salt,Mouse,4.0,30.51,2026-09-13,Delivered,False,False
+ORD-0507,Customer 199,Salt,Notebook,1.0,84.78,2026-08-05,Pending,False,False
+ORD-0635,Customer 177,Aqaba,Keyboard,5.0,63.88,2026-02-14,Cancelled,False,False
+ORD-0943,Customer 194,Amman,Keyboard,4.0,64.54,2026-08-26,Pending,False,False
+ORD-0640,Customer 011,Amman,USB Drive,5.0,72.43,2026-09-06,Cancelled,False,False
+ORD-0323,Customer 094,Amman,USB Drive,2.0,64.79,2026-08-28,Delivered,False,False
+ORD-0854,Customer 140,Salt,Headphones,5.0,64.37,2026-04-20,Cancelled,False,False
+ORD-0110,Customer 136,Aqaba,Keyboard,3.0,88.73,2026-06-05,Pending,False,False
+ORD-0177,Customer 183,Amman,Keyboard,3.0,36.76,2026-08-06,Pending,False,False
+ORD-0716,Customer 040,Salt,Keyboard,2.0,49.81,2026-04-13,Delivered,False,False
+ORD-0835,Customer 014,Amman,Headphones,5.0,35.79,2026-10-26,Pending,False,False
+ORD-0787,Customer 082,Zarqa,USB Drive,3.0,17.59,2026-01-24,Pending,False,False
+ORD-0054,Customer 018,Zarqa,Keyboard,1.0,33.31,2026-02-22,Delivered,False,False
+ORD-0714,Customer 207,Aqaba,Notebook,2.0,91.3,2026-03-15,Cancelled,False,False
+ORD-0945,Customer 078,Irbid,Keyboard,4.0,21.36,2026-06-19,Pending,False,False
+ORD-0296,Customer 123,Amman,Notebook,3.0,89.75,2026-02-03,Pending,False,False
+ORD-0260,Customer 185,Aqaba,USB Drive,3.0,47.89,2026-04-18,Cancelled,False,True
+ORD-0109,Customer 203,Salt,Notebook,1.0,31.53,2026-07-27,Pending,False,False
+ORD-0289,Customer 179,Aqaba,Keyboard,4.0,7.13,2026-06-02,Delivered,False,False
+ORD-0119,Customer 158,Salt,Mouse,2.0,47.65,2026-09-04,Delivered,True,False
+ORD-0127,Customer 025,Zarqa,Headphones,5.0,68.8,2026-09-06,Cancelled,False,False
+ORD-0032,Customer 144,Salt,Keyboard,5.0,32.7,2026-09-25,Delivered,False,False
+ORD-0332,Customer 193,Irbid,Mouse,2.0,37.17,2026-07-18,Cancelled,False,False
+ORD-0678,Customer 160,Zarqa,USB Drive,5.0,45.08,2026-04-10,Cancelled,False,False
+ORD-0196,Customer 164,Amman,Headphones,2.0,18.57,2026-03-15,Cancelled,False,False
+ORD-0228,Customer 134,Amman,Headphones,2.0,62.28,2026-02-24,Pending,False,False
+ORD-0933,Customer 108,Aqaba,Headphones,2.0,83.36,2026-08-02,Cancelled,False,False
+ORD-0012,Customer 047,Irbid,USB Drive,5.0,62.85,2026-04-20,Cancelled,False,False
+ORD-0093,Customer 074,Zarqa,Mouse,3.0,92.06,2026-05-15,Cancelled,False,False
+ORD-0510,Customer 183,Zarqa,Keyboard,3.0,51.85,2026-01-03,Pending,False,False
+ORD-0416,Customer 159,Salt,Keyboard,5.0,93.59,2026-09-19,Delivered,False,False
+ORD-0442,Customer 165,Salt,Headphones,4.0,26.01,2026-01-08,Pending,False,False
+ORD-0265,Customer 152,Salt,Notebook,4.0,75.52,2026-05-09,Cancelled,False,False
+ORD-0649,Customer 075,Zarqa,Headphones,3.0,-5.0,2026-01-18,Delivered,False,False
+ORD-0085,Customer 052,Zarqa,Keyboard,1.0,33.43,2026-08-06,Delivered,False,False
+ORD-0688,Customer 200,Zarqa,Notebook,3.0,23.23,2026-05-26,Pending,False,False
+ORD-0436,Customer 198,Irbid,Notebook,5.0,20.11,2026-01-24,Delivered,False,False
+ORD-0468,Customer 032,Amman,Headphones,2.0,37.13,2026-05-23,Cancelled,False,False
+ORD-0034,Customer 160,Aqaba,Notebook,1.0,87.46,2026-08-17,Delivered,False,False
+ORD-0209,Customer 039,Zarqa,Headphones,2.0,91.77,2026-04-05,Pending,False,False
+ORD-0738,Customer 106,Amman,Mouse,4.0,60.25,2026-08-10,Pending,False,False
+ORD-0087,Customer 180,Salt,Notebook,1.0,64.71,2026-02-07,Cancelled,False,False
+ORD-0526,Customer 205,Zarqa,Keyboard,3.0,72.23,2026-04-20,Cancelled,False,False
+ORD-0274,Customer 046,Amman,Keyboard,5.0,68.92,2026-03-05,Delivered,False,False
+ORD-0653,Customer 131,Irbid,Headphones,2.0,35.71,2026-04-19,Pending,False,False
+ORD-0759,Customer 116,Amman,USB Drive,4.0,79.04,2026-06-07,Pending,False,False
+ORD-0235,Customer 047,Zarqa,Mouse,5.0,48.46,2026-10-01,Delivered,False,False
+ORD-0721,Customer 071,Amman,Notebook,2.0,57.64,2026-07-15,Pending,False,False
+ORD-0676,Customer 192,Amman,Mouse,2.0,21.77,2026-04-20,Pending,False,False
+ORD-0280,Customer 105,Aqaba,Keyboard,1.0,34.66,2026-06-10,Pending,False,False
+ORD-0880,Customer 058,Aqaba,Mouse,3.0,98.87,2026-06-25,Cancelled,False,False
+ORD-0303,Customer 198,Zarqa,Mouse,4.0,81.87,2026-06-05,Cancelled,False,False
+ORD-0105,Customer 076,Salt,Headphones,4.0,97.08,2026-07-22,Delivered,False,False
+ORD-0642,Customer 190,Aqaba,Notebook,1.0,84.93,2026-01-07,Pending,False,False
+ORD-0407,Customer 132,Irbid,Mouse,2.0,71.21,2026-10-24,Delivered,False,False
+ORD-0761,Customer 174,Salt,USB Drive,3.0,85.29,2026-01-03,Delivered,False,True
+ORD-0239,Customer 007,Amman,Notebook,1.0,28.0,2026-03-02,Delivered,False,False
+ORD-0379,Customer 122,Amman,USB Drive,5.0,46.51,2026-07-25,Pending,False,False
+ORD-0624,Customer 146,Zarqa,Notebook,2.0,50.77,2026-10-07,Cancelled,True,False
+ORD-0169,Customer 201,Irbid,USB Drive,3.0,22.43,2026-09-02,Pending,False,False
+ORD-0516,Customer 209,Aqaba,Keyboard,5.0,65.65,2026-03-23,Delivered,False,False
+ORD-0920,Customer 108,Amman,Mouse,2.0,95.97,2026-07-07,Pending,False,False
+ORD-0831,Customer 146,Irbid,USB Drive,3.0,23.4,2026-09-20,Delivered,False,False
+ORD-0146,Customer 200,Zarqa,Keyboard,5.0,59.55,2026-07-08,Cancelled,False,False
+ORD-0823,Customer 074,Amman,Notebook,5.0,21.36,2026-02-25,Cancelled,False,False
+ORD-0791,Customer 072,Irbid,Notebook,3.0,83.66,2026-05-15,Pending,False,False
+ORD-0912,Customer 011,Salt,Headphones,5.0,-5.0,2026-09-14,Cancelled,False,False
+ORD-0010,Customer 214,Aqaba,Keyboard,4.0,99.51,2026-05-01,Delivered,False,False
+ORD-0733,Customer 100,Aqaba,USB Drive,5.0,47.22,2026-08-01,Pending,False,False
+ORD-0872,Customer 107,Aqaba,Mouse,3.0,28.92,2026-05-27,Cancelled,False,False
+ORD-0186,Customer 111,Aqaba,Mouse,2.0,63.19,2026-08-22,Cancelled,False,False
+ORD-0594,Customer 099,Irbid,USB Drive,3.0,25.52,2026-04-14,Cancelled,False,False
+ORD-0377,Customer 153,Amman,USB Drive,2.0,65.28,2026-01-17,Cancelled,False,False
+ORD-0638,Customer 207,Aqaba,Headphones,3.0,89.43,2026-04-21,Cancelled,False,False
+ORD-0667,Customer 117,Aqaba,Keyboard,3.0,11.52,2026-10-26,Delivered,False,False
+ORD-0505,Customer 200,Zarqa,Headphones,3.0,21.35,2026-04-23,Cancelled,False,False
+ORD-0704,Customer 092,Amman,Headphones,1.0,52.81,2026-08-01,Pending,True,False
+ORD-0818,Customer 034,Salt,Mouse,5.0,21.03,2026-03-23,Cancelled,False,False
+ORD-0654,Customer 111,Zarqa,Notebook,1.0,78.59,2026-03-26,Pending,False,False
+ORD-0901,Customer 189,Aqaba,Notebook,5.0,80.26,2026-06-11,Pending,False,False
+ORD-0558,Customer 004,Zarqa,Notebook,3.0,15.74,2026-02-10,Cancelled,False,False
+ORD-0215,Customer 038,Zarqa,Keyboard,5.0,32.5,2026-09-24,Cancelled,False,False
+ORD-0672,Customer 095,Zarqa,Headphones,5.0,77.6,2026-04-23,Pending,False,False
+ORD-0521,Customer 210,Salt,Notebook,1.0,12.6,2026-04-05,Delivered,False,False
+ORD-0577,Customer 046,Irbid,Notebook,4.0,42.17,2026-01-18,Cancelled,False,False
+ORD-0461,Customer 088,Irbid,USB Drive,3.0,99.33,2026-06-27,Delivered,False,False
+ORD-0643,Customer 140,Salt,Notebook,1.0,50.77,2026-09-02,Cancelled,True,False
+ORD-0611,Customer 137,Zarqa,Notebook,5.0,16.6,2026-03-06,Pending,False,False
+ORD-0352,Customer 129,Amman,Keyboard,4.0,37.58,2026-01-23,Cancelled,False,False
+ORD-0862,Customer 206,Amman,Notebook,5.0,45.07,2026-06-01,Delivered,False,False
+ORD-0050,Customer 107,Salt,Mouse,1.0,55.29,2026-05-07,Pending,False,False
+ORD-0602,Customer 005,Aqaba,Keyboard,5.0,34.62,2026-06-12,Pending,False,False
+ORD-0402,Customer 071,Zarqa,Headphones,2.0,52.81,2026-01-13,Cancelled,True,False
+ORD-0874,Customer 174,Salt,Headphones,1.0,94.58,2026-05-04,Pending,False,False
+ORD-0497,Customer 068,Irbid,Headphones,3.0,85.4,2026-06-20,Cancelled,False,True
+ORD-0879,Customer 136,Aqaba,Headphones,3.0,20.46,2026-03-15,Delivered,False,False
+ORD-0223,Customer 019,Zarqa,Headphones,1.0,26.03,2026-01-23,Pending,False,False
+ORD-0388,Customer 214,Irbid,Notebook,3.0,31.95,2026-04-28,Pending,False,False
+ORD-0743,Customer 197,Amman,Mouse,4.0,31.43,2026-09-25,Delivered,False,False
+ORD-0592,Customer 172,Aqaba,Headphones,5.0,97.01,2026-08-28,Pending,False,False
+ORD-0131,Customer 159,Salt,Headphones,4.0,65.84,2026-07-09,Cancelled,False,False
+ORD-0356,Customer 188,Aqaba,Notebook,4.0,40.43,2026-04-19,Cancelled,False,False
+ORD-0793,Customer 134,Irbid,USB Drive,3.0,5.41,2026-06-22,Pending,False,False
+ORD-0807,Customer 217,Irbid,Notebook,4.0,86.99,2026-09-07,Cancelled,False,False
+ORD-0475,Customer 186,Salt,Mouse,5.0,91.95,2026-05-27,Delivered,False,False
+ORD-0167,Customer 037,Salt,Headphones,4.0,94.46,2026-06-02,Delivered,False,False
+ORD-0677,Customer 175,Salt,Mouse,2.0,39.71,2026-08-15,Pending,False,False
+ORD-0739,Customer 147,Aqaba,Keyboard,2.0,8.07,2026-01-15,Delivered,False,False
+ORD-0267,Customer 144,Salt,USB Drive,2.0,92.17,2026-08-25,Pending,False,False
+ORD-0097,Customer 112,Irbid,Notebook,3.0,51.97,2026-10-11,Delivered,False,False
+ORD-0264,Customer 211,Aqaba,Mouse,3.0,28.73,2026-07-02,Delivered,False,False
+ORD-0846,Customer 034,Aqaba,Mouse,4.0,13.56,2026-06-03,Pending,False,False
+ORD-0279,Customer 160,Irbid,Headphones,5.0,84.44,2026-04-10,Delivered,False,False
+ORD-0271,Customer 206,Amman,Headphones,5.0,67.64,2026-05-09,Delivered,False,False
+ORD-0740,Customer 059,Zarqa,Keyboard,3.0,45.94,2026-03-13,Cancelled,True,False
+ORD-0358,Customer 146,Salt,Keyboard,4.0,37.52,2026-01-11,Pending,False,False
+ORD-0015,Customer 190,Amman,USB Drive,2.0,90.38,2026-07-06,Cancelled,False,False
+ORD-0450,Customer 044,Aqaba,Headphones,2.0,52.81,2026-03-21,Pending,True,False
+ORD-0364,Customer 136,Irbid,Notebook,4.0,50.77,2026-08-18,Delivered,True,False
+ORD-0384,Customer 051,Aqaba,Keyboard,2.0,25.01,2026-10-13,Cancelled,False,False
+ORD-0826,Customer 074,Irbid,Headphones,1.0,23.83,2026-06-11,Pending,False,False
+ORD-0502,Customer 063,Aqaba,Mouse,4.0,49.46,2026-10-18,Pending,False,False
+ORD-0006,Customer 048,Irbid,USB Drive,4.0,74.2,2026-08-05,Cancelled,False,False
+ORD-0841,Customer 182,Salt,Headphones,4.0,67.74,2026-02-28,Cancelled,False,False
+ORD-0372,Customer 177,Salt,Notebook,4.0,50.77,2026-10-15,Delivered,True,False
+ORD-0837,Customer 196,Amman,Keyboard,3.0,61.41,2026-10-09,Cancelled,False,False
+ORD-0915,Customer 009,Salt,Notebook,1.0,35.4,2026-06-17,Cancelled,False,False
+ORD-0044,Customer 062,Zarqa,USB Drive,2.0,29.15,2026-09-07,Cancelled,False,False
+ORD-0900,Customer 091,Zarqa,Headphones,3.0,25.78,2026-03-15,Pending,False,True
+ORD-0840,Customer 052,Salt,Mouse,1.0,42.67,2026-02-01,Cancelled,False,False
+ORD-0907,Customer 168,Amman,Mouse,2.0,50.2,2026-01-15,Cancelled,False,False
+ORD-0827,Customer 152,Irbid,USB Drive,3.0,74.05,2026-09-10,Cancelled,False,False
+ORD-0470,Customer 155,Salt,Keyboard,5.0,25.92,2026-03-04,Pending,False,False
+ORD-0675,Customer 171,Aqaba,Notebook,1.0,99.31,2026-04-24,Delivered,False,False
+ORD-0391,Customer 150,Aqaba,Notebook,4.0,6.66,2026-09-24,Delivered,False,False
+ORD-0095,Customer 096,Amman,Keyboard,4.0,67.88,2026-04-02,Cancelled,False,False
+ORD-0104,Customer 128,Irbid,Notebook,2.0,87.85,2026-07-07,Cancelled,False,False
+ORD-0729,Customer 015,Salt,USB Drive,4.0,57.81,2026-08-11,Pending,False,False
+ORD-0842,Customer 098,Salt,Headphones,3.0,32.73,2026-03-27,Pending,False,False
+ORD-0017,Customer 074,Amman,Mouse,4.0,81.5,2026-01-27,Delivered,False,False
+ORD-0451,Customer 103,Amman,Keyboard,4.0,46.39,2026-02-20,Pending,False,False
+ORD-0320,Customer 131,Salt,Mouse,2.0,67.3,2026-02-26,Cancelled,False,False
+ORD-0562,Customer 006,Aqaba,Mouse,2.0,68.06,2026-07-04,Delivered,False,False
+ORD-0937,Customer 040,Aqaba,Mouse,3.0,48.61,2026-05-23,Cancelled,False,False
+ORD-0367,Customer 154,Irbid,Mouse,1.0,6.8,2026-06-20,Delivered,False,False
+ORD-0262,Customer 161,Irbid,Headphones,1.0,46.59,2026-10-19,Cancelled,False,False
+ORD-0322,Customer 118,Irbid,Notebook,3.0,94.22,2026-07-17,Cancelled,False,False
+ORD-0506,Customer 061,Aqaba,Headphones,5.0,9.62,2026-02-10,Cancelled,False,False
+ORD-0021,Customer 137,Salt,Mouse,4.0,51.02,2026-05-05,Cancelled,False,False
+ORD-0491,Customer 210,Amman,USB Drive,1.0,93.63,2026-01-21,Cancelled,False,False
+ORD-0694,Customer 079,Amman,Mouse,4.0,22.4,2026-07-26,Delivered,False,False
+ORD-0219,Customer 033,Aqaba,Headphones,2.0,12.57,2026-01-01,Delivered,False,False
+ORD-0724,Customer 026,Irbid,Headphones,1.0,52.23,2026-03-12,Pending,False,False
+ORD-0203,Customer 207,Aqaba,Keyboard,3.0,73.54,2026-10-28,Pending,False,True
+ORD-0726,Customer 210,Zarqa,Keyboard,2.0,59.24,2026-10-03,Delivered,False,False
+ORD-0354,Customer 116,Aqaba,Headphones,5.0,90.94,2026-02-20,Pending,False,False
+ORD-0509,Customer 064,Irbid,USB Drive,3.0,51.36,2026-05-26,Cancelled,False,True
+ORD-0324,Customer 030,Salt,USB Drive,3.0,94.8,2026-01-27,Pending,False,False
+ORD-0556,Customer 085,Zarqa,Notebook,5.0,32.26,2026-09-09,Pending,False,False
+ORD-0162,Customer 098,Amman,Keyboard,1.0,46.09,2026-09-12,Pending,False,False
+ORD-0927,Customer 161,Amman,Headphones,1.0,9.11,2026-02-03,Delivered,False,False
+ORD-0867,Customer 079,Salt,Mouse,4.0,6.49,2026-07-17,Pending,False,False
+ORD-0192,Customer 220,Salt,Keyboard,5.0,41.49,2026-02-20,Delivered,False,False
+ORD-0018,Customer 018,Zarqa,Keyboard,2.0,8.3,2026-03-13,Pending,False,False
+ORD-0031,Customer 189,Salt,Notebook,1.0,56.81,2026-09-20,Pending,False,False
+ORD-0859,Customer 072,Aqaba,USB Drive,1.0,43.74,2026-10-06,Delivered,False,False
+ORD-0504,Customer 212,Zarqa,Keyboard,3.0,89.21,2026-02-19,Cancelled,False,True
+ORD-0631,Customer 004,Aqaba,Notebook,3.0,27.34,2026-01-28,Delivered,False,False
+ORD-0145,Customer 062,Amman,Mouse,1.0,28.11,2026-10-09,Pending,False,False
+ORD-0795,Customer 164,Zarqa,Mouse,5.0,81.35,2026-03-25,Cancelled,False,False
+ORD-0227,Customer 193,Salt,USB Drive,4.0,52.18,2026-01-09,Delivered,False,False
+ORD-0755,Customer 210,Aqaba,USB Drive,1.0,32.2,2026-04-20,Delivered,False,False
+ORD-0466,Customer 028,Salt,Keyboard,2.0,46.81,2026-09-11,Cancelled,False,False
+ORD-0616,Customer 161,Amman,USB Drive,3.0,67.18,2026-04-03,Pending,False,False
+ORD-0597,Customer 030,Amman,Mouse,2.0,22.1,2026-04-08,Cancelled,False,False
+ORD-0908,Customer 008,Amman,USB Drive,3.0,64.05,2026-03-28,Cancelled,False,False
+ORD-0741,Customer 121,Irbid,Keyboard,2.0,21.99,2026-02-13,Pending,False,False
+ORD-0887,Customer 215,Aqaba,Mouse,5.0,96.91,2026-07-04,Cancelled,False,False
+ORD-0573,Customer 069,Irbid,Notebook,3.0,95.49,2026-01-13,Pending,False,False
+ORD-0628,Customer 079,Zarqa,Notebook,4.0,85.12,2026-02-16,Delivered,False,False
+ORD-0074,Customer 027,Aqaba,USB Drive,1.0,73.27,2026-05-25,Pending,False,False
+ORD-0775,Customer 160,Aqaba,Mouse,3.0,75.18,2026-08-21,Cancelled,False,True
+ORD-0866,Customer 040,Irbid,USB Drive,1.0,88.08,2026-10-23,Delivered,False,False
+ORD-0022,Customer 033,Zarqa,Headphones,1.0,77.98,2026-07-22,Cancelled,False,False
+ORD-0445,Customer 004,Amman,USB Drive,2.0,40.35,2026-04-05,Delivered,False,False
+ORD-0045,Customer 112,Zarqa,Mouse,4.0,19.93,2026-08-13,Pending,False,False
+ORD-0179,Customer 020,Aqaba,Mouse,1.0,86.7,2026-07-06,Pending,False,False
+ORD-0080,Customer 114,Salt,Notebook,2.0,99.66,2026-10-23,Pending,False,False
+ORD-0295,Customer 180,Amman,Keyboard,5.0,38.55,2026-06-11,Delivered,False,False
+ORD-0548,Customer 021,Irbid,Headphones,5.0,67.16,2026-07-16,Delivered,False,False
+ORD-0553,Customer 024,Aqaba,Keyboard,4.0,39.77,2026-06-11,Cancelled,False,False
+ORD-0359,Customer 194,Amman,USB Drive,3.0,84.3,2026-10-17,Delivered,False,False
+ORD-0370,Customer 128,Amman,Notebook,5.0,70.56,2026-06-06,Cancelled,False,False
+ORD-0632,Customer 173,Irbid,Mouse,1.0,26.2,2026-04-09,Cancelled,False,False
+ORD-0425,Customer 009,Amman,Keyboard,3.0,39.13,2026-10-08,Cancelled,False,False
+ORD-0353,Customer 170,Amman,Headphones,3.0,33.9,2026-08-24,Delivered,False,True
+ORD-0214,Customer 204,Amman,USB Drive,2.0,87.47,2026-01-22,Delivered,False,False
+ORD-0365,Customer 152,Irbid,USB Drive,3.0,11.25,2026-04-25,Cancelled,False,False
+ORD-0518,Customer 192,Aqaba,Headphones,1.0,75.38,2026-06-20,Delivered,False,False
+ORD-0363,Customer 153,Zarqa,Mouse,3.0,10.91,2026-09-11,Cancelled,False,True
+ORD-0278,Customer 134,Amman,USB Drive,5.0,96.97,2026-10-16,Cancelled,False,False
+ORD-0100,Customer 095,Salt,Mouse,5.0,23.03,2026-03-23,Pending,False,False
+ORD-0256,Customer 047,Salt,Notebook,2.0,75.25,2026-02-06,Pending,False,False
+ORD-0712,Customer 001,Zarqa,Notebook,2.0,61.86,2026-05-27,Cancelled,False,False
+ORD-0178,Customer 209,Zarqa,Mouse,5.0,26.12,2026-03-20,Delivered,False,False
+ORD-0850,Customer 052,Zarqa,Keyboard,4.0,19.62,2026-07-12,Cancelled,False,False
+ORD-0134,Customer 015,Zarqa,Keyboard,5.0,96.27,2026-07-17,Pending,False,False
+ORD-0637,Customer 206,Irbid,Keyboard,3.0,56.94,2026-09-05,Delivered,False,False
+ORD-0815,Customer 018,Aqaba,Mouse,3.0,28.24,2026-05-15,Cancelled,False,True
+ORD-0730,Customer 037,Salt,Headphones,3.0,9.28,2026-06-06,Pending,False,True
+ORD-0727,Customer 104,Zarqa,Headphones,3.0,30.89,2026-06-10,Delivered,False,False
+ORD-0547,Customer 220,Amman,Notebook,1.0,92.78,2026-08-20,Cancelled,False,False
+ORD-0081,Customer 006,Salt,USB Drive,3.0,96.41,2026-07-21,Cancelled,False,False
+ORD-0579,Customer 020,Aqaba,Headphones,5.0,6.02,2026-07-24,Cancelled,False,False
+ORD-0061,Customer 054,Irbid,USB Drive,1.0,55.66,2026-05-13,Pending,False,False
+ORD-0816,Customer 029,Salt,Headphones,2.0,14.14,2026-07-13,Pending,False,False
+ORD-0023,Customer 066,Amman,Keyboard,2.0,61.4,2026-10-14,Cancelled,False,False
+ORD-0805,Customer 151,Aqaba,Keyboard,2.0,21.2,2026-08-19,Pending,False,False
+ORD-0535,Customer 137,Salt,USB Drive,5.0,39.41,2026-10-12,Pending,False,False
+ORD-0204,Customer 060,Salt,Notebook,2.0,-5.0,2026-02-03,Delivered,False,False
+ORD-0225,Customer 060,Irbid,Headphones,4.0,56.86,2026-07-20,Delivered,False,False
+ORD-0140,Customer 046,Zarqa,Notebook,2.0,68.84,2026-09-27,Delivered,False,False
+ORD-0836,Customer 084,Aqaba,USB Drive,3.0,95.65,2026-03-03,Pending,False,True
+ORD-0326,Customer 021,Aqaba,Headphones,1.0,47.95,2026-06-25,Pending,False,False
+ORD-0129,Customer 076,Irbid,USB Drive,5.0,29.42,2026-02-28,Cancelled,False,False
+ORD-0398,Customer 198,Amman,Keyboard,3.0,6.76,2026-10-12,Pending,False,False
+ORD-0234,Customer 061,Salt,Notebook,5.0,13.47,2026-07-25,Cancelled,False,False
+ORD-0580,Customer 168,Aqaba,USB Drive,5.0,5.24,2026-07-17,Pending,False,False
+ORD-0476,Customer 112,Zarqa,Keyboard,4.0,94.2,2026-08-15,Cancelled,False,False
+ORD-0190,Customer 011,Salt,USB Drive,4.0,56.23,2026-05-21,Pending,False,False
+ORD-0269,Customer 135,Irbid,Mouse,5.0,48.78,2026-05-04,Cancelled,False,False
+ORD-0187,Customer 188,Irbid,Headphones,1.0,79.16,2026-01-19,Cancelled,False,False
+ORD-0455,Customer 026,Irbid,USB Drive,4.0,6.91,2026-04-26,Pending,False,False
+ORD-0249,Customer 174,Amman,Headphones,4.0,69.12,2026-10-14,Delivered,False,False
+ORD-0928,Customer 014,Zarqa,Headphones,5.0,15.47,2026-05-24,Pending,False,False
+ORD-0541,Customer 094,Salt,Mouse,1.0,52.55,2026-06-08,Cancelled,False,False
+ORD-0350,Customer 078,Salt,Mouse,4.0,12.84,2026-04-05,Pending,False,False
+ORD-0046,Customer 026,Salt,Keyboard,4.0,45.94,2026-10-09,Delivered,True,False
+ORD-0369,Customer 061,Amman,Headphones,3.0,13.46,2026-05-08,Delivered,False,False
+ORD-0412,Customer 089,Zarqa,Notebook,1.0,50.77,2026-01-10,Cancelled,True,False
+ORD-0163,Customer 171,Aqaba,Keyboard,3.0,11.7,2026-04-18,Pending,False,False
+ORD-0308,Customer 178,Amman,USB Drive,4.0,18.82,2026-02-01,Pending,False,False
+ORD-0875,Customer 175,Salt,USB Drive,5.0,23.14,2026-03-10,Delivered,False,False
+ORD-0619,Customer 146,Amman,Keyboard,4.0,-5.0,2026-08-16,Delivered,False,False
+ORD-0939,Customer 023,Amman,Notebook,2.0,21.2,2026-08-11,Pending,False,False
+ORD-0351,Customer 066,Amman,Keyboard,4.0,45.94,2026-09-09,Cancelled,True,False
+ORD-0537,Customer 036,Zarqa,Keyboard,5.0,96.17,2026-01-07,Cancelled,False,False
+ORD-0305,Customer 022,Amman,Notebook,3.0,27.14,2026-05-06,Pending,False,True
+ORD-0734,Customer 048,Salt,Keyboard,3.0,94.51,2026-10-15,Delivered,False,True
+ORD-0844,Customer 074,Irbid,Notebook,4.0,85.91,2026-09-10,Delivered,False,False
+ORD-0339,Customer 191,Aqaba,Notebook,5.0,20.66,2026-10-22,Cancelled,False,False
+ORD-0832,Customer 041,Zarqa,Mouse,3.0,12.21,2026-07-10,Cancelled,False,False
+ORD-0051,Customer 005,Salt,Headphones,5.0,26.39,2026-08-26,Cancelled,False,False
+ORD-0360,Customer 020,Zarqa,Headphones,3.0,65.47,2026-02-03,Pending,False,False
+ORD-0899,Customer 067,Aqaba,Keyboard,2.0,45.94,2026-04-13,Pending,True,False
+ORD-0404,Customer 041,Salt,Notebook,4.0,55.72,2026-08-25,Pending,False,False
+ORD-0266,Customer 029,Irbid,Keyboard,2.0,74.57,2026-10-15,Delivered,False,False
+ORD-0009,Customer 116,Zarqa,Headphones,4.0,89.32,2026-05-12,Cancelled,False,False
+ORD-0478,Customer 194,Irbid,Headphones,5.0,47.76,2026-06-15,Pending,False,False
+ORD-0748,Customer 032,Salt,Headphones,5.0,54.13,2026-10-17,Pending,False,False
+ORD-0189,Customer 184,Amman,Keyboard,3.0,21.82,2026-07-03,Cancelled,False,False
+ORD-0508,Customer 132,Amman,Mouse,2.0,96.38,2026-07-19,Cancelled,False,False
+ORD-0590,Customer 205,Aqaba,Notebook,4.0,34.99,2026-01-06,Pending,False,False
+ORD-0185,Customer 146,Aqaba,Headphones,1.0,64.08,2026-08-01,Delivered,False,False
+ORD-0674,Customer 205,Amman,Notebook,3.0,96.38,2026-07-20,Pending,False,False
+ORD-0620,Customer 135,Irbid,Headphones,3.0,18.65,2026-07-23,Delivered,False,False
+ORD-0802,Customer 195,Aqaba,Mouse,4.0,12.9,2026-05-10,Delivered,False,False
+ORD-0595,Customer 195,Zarqa,Keyboard,2.0,17.42,2026-04-02,Delivered,False,False
+ORD-0246,Customer 075,Amman,Notebook,1.0,11.04,2026-01-14,Pending,False,False
+ORD-0808,Customer 010,Zarqa,Headphones,1.0,86.53,2026-03-09,Delivered,False,False
+ORD-0735,Customer 077,Salt,Notebook,1.0,50.77,2026-10-28,Delivered,True,False
+ORD-0544,Customer 200,Irbid,Mouse,5.0,18.16,2026-04-01,Delivered,False,False
+ORD-0448,Customer 117,Amman,Keyboard,3.0,24.65,2026-03-04,Pending,False,False
+ORD-0382,Customer 092,Zarqa,Mouse,1.0,34.0,2026-09-19,Cancelled,False,False
+ORD-0689,Customer 001,Irbid,USB Drive,3.0,43.61,2026-03-17,Pending,False,False
+ORD-0751,Customer 037,Aqaba,Keyboard,2.0,79.85,2026-06-25,Cancelled,False,False
+ORD-0060,Customer 174,Aqaba,Headphones,4.0,87.1,2026-01-09,Delivered,False,False
+ORD-0099,Customer 189,Zarqa,Notebook,2.0,68.37,2026-08-08,Pending,False,False
+ORD-0883,Customer 188,Salt,Mouse,5.0,21.28,2026-09-13,Pending,False,False
+ORD-0292,Customer 178,Amman,Mouse,1.0,98.67,2026-04-20,Cancelled,False,False
+ORD-0932,Customer 102,Zarqa,Keyboard,5.0,8.14,2026-06-23,Delivered,False,False
+ORD-0634,Customer 117,Aqaba,Keyboard,4.0,61.02,2026-09-25,Pending,False,False
+ORD-0247,Customer 114,Amman,Headphones,5.0,45.42,2026-03-01,Delivered,False,False
+ORD-0255,Customer 051,Amman,Mouse,5.0,46.83,2026-05-01,Pending,False,False
+ORD-0609,Customer 039,Aqaba,Notebook,5.0,63.05,2026-06-14,Pending,False,False
+ORD-0117,Customer 178,Amman,USB Drive,4.0,54.31999999999999,2026-04-20,Delivered,True,False
+ORD-0409,Customer 115,Zarqa,Mouse,2.0,31.37,2026-03-19,Pending,False,False
+ORD-0821,Customer 047,Aqaba,Notebook,3.0,57.31,2026-07-09,Pending,False,False
+ORD-0419,Customer 112,Amman,Headphones,3.0,18.29,2026-10-03,Cancelled,False,False
+ORD-0819,Customer 219,Salt,Notebook,3.0,50.77,2026-06-20,Pending,True,False
+ORD-0062,Customer 156,Zarqa,Notebook,3.0,91.75,2026-10-09,Delivered,False,True
+ORD-0389,Customer 103,Salt,Headphones,5.0,67.65,2026-01-02,Delivered,False,False
+ORD-0559,Customer 113,Aqaba,Keyboard,4.0,97.86,2026-03-25,Cancelled,False,False
+ORD-0193,Customer 095,Zarqa,Headphones,4.0,50.63,2026-02-28,Delivered,False,False
+ORD-0858,Customer 214,Salt,Mouse,5.0,61.64,2026-08-17,Delivered,False,False
+ORD-0546,Customer 050,Salt,Notebook,4.0,42.01,2026-06-25,Cancelled,False,False
+ORD-0596,Customer 173,Aqaba,Mouse,5.0,64.27,2026-07-06,Pending,False,False
+ORD-0075,Customer 086,Zarqa,Mouse,2.0,80.33,2026-10-28,Delivered,False,False
+ORD-0703,Customer 090,Zarqa,Keyboard,3.0,46.72,2026-02-02,Pending,False,False
+ORD-0441,Customer 007,Aqaba,Headphones,3.0,24.53,2026-08-21,Cancelled,False,False
+ORD-0413,Customer 219,Irbid,Mouse,2.0,65.44,2026-07-14,Pending,False,False
+ORD-0019,Customer 036,Irbid,Headphones,4.0,75.86,2026-01-09,Cancelled,False,False
+ORD-0253,Customer 096,Amman,USB Drive,2.0,14.88,2026-10-27,Delivered,False,False
+ORD-0343,Customer 147,Salt,USB Drive,1.0,57.79,2026-05-22,Delivered,False,False
+ORD-0411,Customer 076,Amman,Headphones,4.0,48.74,2026-10-28,Delivered,False,False
+ORD-0030,Customer 141,Aqaba,Headphones,3.0,34.39,2026-09-26,Pending,False,False
+ORD-0092,Customer 170,Zarqa,USB Drive,3.0,83.37,2026-06-12,Pending,False,False
+ORD-0027,Customer 182,Aqaba,Headphones,5.0,72.45,2026-01-20,Cancelled,False,False
+ORD-0132,Customer 051,Irbid,Mouse,3.0,23.26,2026-07-14,Cancelled,False,False
+ORD-0250,Customer 035,Aqaba,Notebook,1.0,26.14,2026-10-12,Cancelled,False,False
+ORD-0773,Customer 085,Salt,Headphones,2.0,16.35,2026-10-20,Delivered,False,False
+ORD-0706,Customer 069,Aqaba,Mouse,5.0,32.66,2026-04-23,Cancelled,False,False
+ORD-0796,Customer 186,Irbid,USB Drive,2.0,18.48,2026-03-23,Delivered,False,False
+ORD-0583,Customer 009,Zarqa,USB Drive,4.0,79.5,2026-06-14,Pending,False,False
+ORD-0270,Customer 138,Zarqa,Headphones,5.0,45.9,2026-10-23,Cancelled,False,False
+ORD-0522,Customer 035,Amman,Keyboard,2.0,7.38,2026-02-25,Delivered,False,False
+ORD-0302,Customer 145,Aqaba,Mouse,1.0,92.69,2026-07-14,Pending,False,False
+ORD-0618,Customer 038,Amman,Headphones,5.0,44.47,2026-01-28,Pending,False,False
+ORD-0263,Customer 164,Amman,Notebook,4.0,94.92,2026-03-05,Delivered,False,False
+ORD-0098,Customer 055,Amman,Mouse,2.0,52.76,2026-05-15,Delivered,False,False
+ORD-0218,Customer 181,Zarqa,Keyboard,5.0,8.34,2026-08-15,Pending,False,False
+ORD-0853,Customer 161,Aqaba,USB Drive,4.0,21.43,2026-06-15,Cancelled,False,False
+ORD-0549,Customer 095,Zarqa,USB Drive,5.0,54.31999999999999,2026-09-13,Delivered,True,False
+ORD-0424,Customer 040,Amman,Mouse,3.0,28.19,2026-04-07,Delivered,False,False
+ORD-0025,Customer 078,Aqaba,Headphones,1.0,11.83,2026-05-05,Cancelled,False,False
+ORD-0236,Customer 161,Irbid,Mouse,4.0,7.14,2026-03-03,Pending,False,False
+ORD-0275,Customer 086,Aqaba,USB Drive,4.0,47.5,2026-10-17,Delivered,False,False
+ORD-0554,Customer 025,Amman,Headphones,5.0,47.67,2026-08-04,Pending,False,False
+ORD-0474,Customer 063,Salt,Keyboard,1.0,37.61,2026-05-27,Pending,False,False
+ORD-0707,Customer 213,Amman,Notebook,1.0,13.28,2026-08-03,Pending,False,False
+ORD-0026,Customer 047,Zarqa,Mouse,2.0,51.92,2026-10-06,Delivered,False,False
+ORD-0886,Customer 041,Aqaba,Keyboard,2.0,69.15,2026-10-14,Pending,False,False
+ORD-0057,Customer 050,Irbid,Keyboard,4.0,56.16,2026-04-23,Cancelled,False,False
+ORD-0148,Customer 171,Zarqa,Mouse,1.0,7.48,2026-05-03,Delivered,False,False
+ORD-0306,Customer 068,Aqaba,Headphones,3.0,90.71,2026-10-02,Cancelled,False,False
+ORD-0904,Customer 097,Aqaba,USB Drive,3.0,31.1,2026-05-11,Pending,False,False
+ORD-0931,Customer 171,Amman,Keyboard,1.0,68.67,2026-07-21,Pending,False,False
+ORD-0457,Customer 192,Amman,Notebook,2.0,89.94,2026-04-20,Pending,False,False
+ORD-0477,Customer 049,Salt,Notebook,5.0,74.21,2026-06-09,Cancelled,False,False
+ORD-0158,Customer 081,Irbid,Notebook,5.0,97.03,2026-10-13,Delivered,False,False
+ORD-0238,Customer 057,Amman,Keyboard,1.0,55.38,2026-07-27,Pending,False,False
+ORD-0856,Customer 218,Irbid,USB Drive,4.0,47.83,2026-02-28,Delivered,False,False
+ORD-0180,Customer 122,Irbid,Mouse,3.0,77.86,2026-09-28,Pending,False,False
+ORD-0428,Customer 124,Amman,Mouse,2.0,7.91,2026-05-07,Pending,False,False
+ORD-0437,Customer 003,Salt,Keyboard,3.0,39.11,2026-05-03,Delivered,False,False
+ORD-0644,Customer 157,Salt,Keyboard,2.0,45.94,2026-07-10,Pending,True,False
+ORD-0484,Customer 197,Zarqa,Notebook,2.0,79.88,2026-04-01,Cancelled,False,False
+ORD-0885,Customer 186,Salt,Notebook,4.0,93.71,2026-02-11,Pending,False,False
+ORD-0646,Customer 218,Salt,Notebook,1.0,44.85,2026-03-06,Delivered,False,False
+ORD-0838,Customer 178,Irbid,Keyboard,4.0,99.36,2026-10-13,Pending,False,False
+ORD-0036,Customer 104,Amman,Mouse,3.0,8.99,2026-03-15,Cancelled,False,False
+ORD-0600,Customer 131,Aqaba,Notebook,3.0,52.12,2026-02-23,Pending,False,False
+ORD-0315,Customer 203,Irbid,Keyboard,3.0,76.45,2026-02-25,Cancelled,False,False
+ORD-0243,Customer 191,Aqaba,Notebook,1.0,18.04,2026-05-03,Delivered,False,False
+ORD-0906,Customer 004,Zarqa,Mouse,4.0,22.53,2026-07-25,Cancelled,False,False
+ORD-0627,Customer 089,Amman,Keyboard,1.0,57.68,2026-06-05,Pending,False,False
+ORD-0929,Customer 064,Salt,Mouse,3.0,79.93,2026-04-25,Cancelled,False,False
+ORD-0576,Customer 079,Irbid,Mouse,1.0,13.19,2026-10-15,Delivered,False,False
+ORD-0438,Customer 124,Salt,Notebook,3.0,14.97,2026-07-20,Pending,False,False
+ORD-0777,Customer 088,Amman,Keyboard,5.0,45.94,2026-03-27,Cancelled,True,False
+ORD-0128,Customer 137,Irbid,Keyboard,4.0,84.09,2026-07-20,Pending,False,False
+ORD-0272,Customer 186,Aqaba,Mouse,2.0,10.74,2026-01-03,Cancelled,False,False
+ORD-0049,Customer 043,Amman,Keyboard,3.0,23.08,2026-01-12,Delivered,False,False
+ORD-0114,Customer 188,Salt,Headphones,2.0,62.7,2026-02-06,Pending,False,False
+ORD-0711,Customer 071,Amman,Notebook,2.0,7.61,2026-10-17,Pending,False,False
+ORD-0143,Customer 082,Salt,Keyboard,5.0,18.96,2026-08-03,Delivered,False,False
+ORD-0864,Customer 160,Zarqa,Mouse,2.0,68.69,2026-04-17,Delivered,False,False
+ORD-0736,Customer 021,Aqaba,Mouse,3.0,62.33,2026-06-10,Delivered,False,False
+ORD-0752,Customer 082,Aqaba,Notebook,1.0,53.21,2026-06-09,Pending,False,False
+ORD-0011,Customer 192,Irbid,Mouse,1.0,5.27,2026-03-15,Cancelled,False,False
+ORD-0408,Customer 109,Aqaba,Notebook,5.0,96.4,2026-09-26,Pending,False,False
+ORD-0568,Customer 174,Aqaba,Keyboard,3.0,23.24,2026-03-05,Delivered,False,False
+ORD-0170,Customer 105,Irbid,USB Drive,5.0,29.58,2026-10-27,Delivered,False,False
+ORD-0798,Customer 122,Amman,Headphones,5.0,23.42,2026-01-28,Delivered,False,False
+ORD-0318,Customer 191,Irbid,Notebook,3.0,29.37,2026-04-16,Pending,False,False
+ORD-0705,Customer 179,Salt,USB Drive,4.0,13.99,2026-01-08,Delivered,False,False
+ORD-0078,Customer 003,Irbid,Notebook,3.0,70.21,2026-09-12,Delivered,False,False
+ORD-0116,Customer 111,Amman,Headphones,2.0,52.81,2026-04-20,Delivered,True,False
+ORD-0345,Customer 171,Irbid,Notebook,5.0,89.45,2026-09-07,Delivered,False,False
+ORD-0566,Customer 041,Zarqa,Headphones,1.0,35.95,2026-09-08,Delivered,False,False
+ORD-0604,Customer 022,Aqaba,Keyboard,4.0,89.92,2026-01-08,Delivered,False,False
+ORD-0005,Customer 006,Zarqa,Notebook,1.0,19.71,2026-02-26,Pending,False,False
+ORD-0803,Customer 068,Zarqa,Headphones,1.0,46.61,2026-02-24,Cancelled,False,False
+ORD-0362,Customer 215,Aqaba,Mouse,4.0,22.03,2026-07-28,Cancelled,False,False
+ORD-0545,Customer 032,Zarqa,Keyboard,2.0,10.67,2026-09-02,Pending,False,False
+ORD-0668,Customer 082,Irbid,Mouse,5.0,73.59,2026-03-14,Delivered,False,False
+ORD-0792,Customer 041,Salt,Keyboard,2.0,61.72,2026-03-27,Cancelled,False,False
+ORD-0519,Customer 044,Zarqa,Mouse,4.0,30.62,2026-04-19,Cancelled,False,False
+ORD-0489,Customer 168,Amman,Headphones,2.0,48.14,2026-08-08,Pending,False,False
+ORD-0048,Customer 140,Amman,Mouse,4.0,62.75,2026-04-01,Delivered,False,False
+ORD-0515,Customer 168,Zarqa,Mouse,5.0,74.55,2026-06-25,Delivered,False,False
+ORD-0845,Customer 128,Aqaba,Notebook,4.0,6.17,2026-09-03,Delivered,False,False
+ORD-0392,Customer 157,Irbid,Mouse,4.0,31.23,2026-09-15,Pending,False,False
+ORD-0463,Customer 085,Zarqa,Mouse,5.0,42.09,2026-05-16,Cancelled,False,False
+ORD-0304,Customer 124,Salt,Notebook,2.0,59.24,2026-02-14,Cancelled,False,False
+ORD-0073,Customer 145,Zarqa,Headphones,4.0,52.48,2026-06-13,Cancelled,False,False
+ORD-0921,Customer 200,Aqaba,Headphones,5.0,38.97,2026-09-25,Cancelled,False,False
+ORD-0160,Customer 146,Zarqa,Headphones,2.0,73.34,2026-10-06,Delivered,False,False
+ORD-0340,Customer 147,Amman,Mouse,5.0,36.24,2026-09-14,Cancelled,False,False
+ORD-0088,Customer 146,Irbid,USB Drive,2.0,6.71,2026-04-20,Delivered,False,False
+ORD-0766,Customer 188,Salt,Mouse,2.0,18.76,2026-01-26,Pending,False,False
+ORD-0071,Customer 148,Zarqa,Headphones,1.0,42.39,2026-10-10,Pending,False,False
+ORD-0722,Customer 013,Irbid,Headphones,1.0,26.24,2026-07-24,Cancelled,False,False
+ORD-0533,Customer 101,Aqaba,Notebook,5.0,66.53,2026-09-27,Pending,False,False
+ORD-0400,Customer 166,Amman,Notebook,2.0,-5.0,2026-01-02,Pending,False,False
+ORD-0130,Customer 198,Amman,Headphones,2.0,99.39,2026-01-17,Cancelled,False,False
+ORD-0153,Customer 210,Irbid,Headphones,2.0,44.53,2026-04-09,Delivered,False,False
+ORD-0601,Customer 091,Zarqa,Mouse,5.0,13.45,2026-03-15,Cancelled,False,False
+ORD-0731,Customer 054,Amman,Mouse,3.0,77.7,2026-03-23,Cancelled,False,False
+ORD-0443,Customer 045,Zarqa,USB Drive,5.0,77.37,2026-06-12,Pending,False,False
+ORD-0175,Customer 110,Amman,USB Drive,4.0,97.99,2026-06-09,Delivered,False,False
+ORD-0613,Customer 055,Amman,USB Drive,3.0,69.77,2026-08-02,Cancelled,False,False
+ORD-0124,Customer 118,Zarqa,USB Drive,1.0,53.51,2026-05-15,Pending,False,False
+ORD-0268,Customer 065,Amman,Notebook,2.0,55.91,2026-09-28,Cancelled,False,False
+ORD-0824,Customer 156,Zarqa,Headphones,3.0,92.84,2026-08-04,Delivered,False,False
+ORD-0894,Customer 009,Salt,Headphones,2.0,58.48,2026-09-11,Cancelled,False,False
+ORD-0059,Customer 095,Salt,USB Drive,2.0,55.59,2026-01-23,Pending,False,False
+ORD-0033,Customer 082,Amman,USB Drive,2.0,82.4,2026-06-03,Cancelled,False,False
+ORD-0662,Customer 165,Aqaba,Headphones,1.0,35.68,2026-10-04,Delivered,False,False
+ORD-0501,Customer 054,Irbid,Mouse,3.0,32.55,2026-02-28,Delivered,False,False
+ORD-0715,Customer 171,Salt,Notebook,3.0,15.95,2026-05-07,Cancelled,False,False
+ORD-0055,Customer 091,Salt,Notebook,2.0,69.41,2026-06-09,Delivered,False,False
+ORD-0257,Customer 063,Aqaba,Headphones,2.0,52.81,2026-06-22,Pending,True,False
+ORD-0248,Customer 081,Salt,Mouse,3.0,77.61,2026-09-15,Cancelled,False,False
+ORD-0557,Customer 103,Aqaba,Keyboard,4.0,41.58,2026-01-06,Delivered,False,False
+ORD-0390,Customer 065,Aqaba,Keyboard,4.0,25.03,2026-08-07,Cancelled,False,False
+ORD-0897,Customer 020,Zarqa,USB Drive,2.0,25.71,2026-05-22,Pending,False,False
+ORD-0851,Customer 146,Salt,Headphones,3.0,62.25,2026-02-09,Pending,False,True
+ORD-0399,Customer 159,Aqaba,Mouse,5.0,38.91,2026-02-02,Cancelled,False,False
+ORD-0608,Customer 010,Aqaba,Notebook,3.0,70.36,2026-07-07,Pending,False,False
+ORD-0663,Customer 168,Salt,Notebook,2.0,49.71,2026-05-16,Cancelled,False,False
+ORD-0047,Customer 129,Irbid,Notebook,3.0,38.31,2026-01-03,Cancelled,False,False
+ORD-0919,Customer 155,Aqaba,Notebook,1.0,84.91,2026-08-11,Delivered,False,False
+ORD-0949,Customer 190,Amman,Mouse,5.0,41.68,2026-05-28,Pending,False,False
+ORD-0528,Customer 215,Irbid,Notebook,4.0,5.82,2026-09-05,Pending,False,False
+ORD-0423,Customer 038,Salt,Mouse,3.0,47.65,2026-08-05,Cancelled,True,False
+ORD-0013,Customer 153,Irbid,Keyboard,3.0,84.2,2026-06-25,Pending,False,False
+ORD-0076,Customer 175,Zarqa,Headphones,2.0,65.2,2026-05-04,Cancelled,False,False
+ORD-0176,Customer 173,Zarqa,Notebook,3.0,29.88,2026-08-27,Delivered,False,False
+ORD-0282,Customer 048,Amman,Headphones,2.0,57.78,2026-04-10,Delivered,False,False
+ORD-0210,Customer 193,Zarqa,Headphones,5.0,58.64,2026-08-01,Cancelled,False,False
+ORD-0101,Customer 193,Irbid,Keyboard,2.0,39.95,2026-05-15,Cancelled,False,False
+ORD-0240,Customer 069,Aqaba,USB Drive,1.0,99.58,2026-02-09,Cancelled,False,False
+ORD-0607,Customer 005,Zarqa,Notebook,4.0,8.24,2026-02-24,Delivered,False,False
+ORD-0001,Customer 056,Irbid,Mouse,3.0,47.65,2026-08-27,Pending,True,False
+ORD-0155,Customer 024,Salt,Headphones,4.0,52.81,2026-05-27,Cancelled,True,False
+ORD-0184,Customer 158,Irbid,Notebook,3.0,7.95,2026-07-03,Cancelled,False,True
+ORD-0380,Customer 040,Aqaba,Headphones,5.0,53.7,2026-08-27,Pending,False,False
+ORD-0065,Customer 007,Salt,Headphones,3.0,38.43,2026-10-05,Pending,False,False
+ORD-0570,Customer 047,Aqaba,Notebook,1.0,67.97,2026-02-28,Cancelled,False,False
+ORD-0626,Customer 066,Zarqa,Keyboard,2.0,97.52,2026-10-17,Cancelled,False,False
+ORD-0781,Customer 020,Aqaba,Mouse,3.0,46.4,2026-01-19,Pending,False,False
+ORD-0680,Customer 165,Amman,Headphones,5.0,36.06,2026-07-07,Pending,False,False
+ORD-0422,Customer 163,Aqaba,Keyboard,2.0,47.14,2026-09-28,Cancelled,False,False
+ORD-0232,Customer 152,Salt,USB Drive,3.0,51.86,2026-03-07,Pending,False,True
+ORD-0585,Customer 206,Aqaba,USB Drive,3.0,66.38,2026-02-07,Delivered,False,False
+ORD-0135,Customer 204,Irbid,Headphones,1.0,87.05,2026-06-21,Delivered,False,False
+ORD-0171,Customer 156,Irbid,Keyboard,3.0,37.2,2026-01-24,Delivered,False,True
+ORD-0194,Customer 185,Irbid,Keyboard,4.0,57.41,2026-01-28,Cancelled,False,False
+ORD-0212,Customer 152,Zarqa,Mouse,3.0,26.71,2026-10-25,Cancelled,False,True
+ORD-0020,Customer 040,Salt,Mouse,2.0,7.69,2026-06-26,Pending,False,False
+ORD-0922,Customer 022,Zarqa,USB Drive,1.0,55.78,2026-06-05,Delivered,False,False
+ORD-0410,Customer 067,Aqaba,USB Drive,4.0,46.15,2026-06-16,Pending,False,False
+ORD-0297,Customer 012,Irbid,Headphones,1.0,52.81,2026-09-21,Cancelled,False,False
+ORD-0783,Customer 181,Salt,USB Drive,2.0,63.95,2026-03-07,Delivered,False,False
+ORD-0925,Customer 096,Salt,Keyboard,5.0,96.48,2026-02-15,Pending,False,False
+ORD-0778,Customer 040,Amman,Keyboard,4.0,46.75,2026-04-20,Cancelled,False,False
+ORD-0222,Customer 064,Salt,Headphones,5.0,55.63,2026-02-20,Pending,False,False
+ORD-0453,Customer 219,Zarqa,Keyboard,2.0,6.48,2026-04-17,Delivered,False,False
+ORD-0159,Customer 191,Aqaba,Notebook,3.0,60.16,2026-01-09,Pending,False,False
+ORD-0188,Customer 195,Zarqa,Headphones,3.0,79.18,2026-10-21,Cancelled,False,False
+ORD-0825,Customer 085,Zarqa,Headphones,3.0,92.48,2026-07-12,Cancelled,False,False
+ORD-0813,Customer 131,Salt,Notebook,2.0,80.48,2026-05-15,Delivered,False,False
+ORD-0397,Customer 124,Aqaba,USB Drive,5.0,64.96,2026-10-11,Cancelled,False,False
+ORD-0414,Customer 059,Irbid,USB Drive,4.0,70.66,2026-06-11,Cancelled,False,False
+ORD-0434,Customer 131,Salt,Keyboard,2.0,84.46,2026-10-26,Cancelled,False,False
+ORD-0513,Customer 163,Aqaba,Mouse,2.0,79.62,2026-08-24,Cancelled,False,False
+ORD-0069,Customer 118,Irbid,Mouse,1.0,50.33,2026-09-28,Delivered,False,False
+ORD-0697,Customer 190,Zarqa,USB Drive,1.0,13.19,2026-05-13,Cancelled,False,False
+ORD-0464,Customer 125,Aqaba,Notebook,3.0,23.85,2026-01-13,Delivered,False,False
+ORD-0687,Customer 120,Irbid,Mouse,1.0,47.65,2026-08-08,Delivered,True,False
+ORD-0696,Customer 007,Zarqa,Mouse,5.0,72.34,2026-04-14,Cancelled,False,False
+ORD-0725,Customer 135,Zarqa,USB Drive,5.0,40.07,2026-07-04,Delivered,False,False
+ORD-0290,Customer 058,Zarqa,USB Drive,4.0,18.4,2026-10-14,Delivered,False,False
+ORD-0855,Customer 054,Amman,Notebook,1.0,60.59,2026-10-02,Pending,False,False
+ORD-0286,Customer 154,Aqaba,Mouse,2.0,87.86,2026-03-23,Delivered,False,False
+ORD-0500,Customer 153,Zarqa,Mouse,5.0,47.65,2026-01-26,Pending,True,False
+ORD-0483,Customer 162,Salt,Notebook,1.0,9.21,2026-07-27,Cancelled,False,False
+ORD-0843,Customer 056,Aqaba,Keyboard,3.0,90.77,2026-09-24,Delivered,False,False
+ORD-0873,Customer 113,Zarqa,Keyboard,1.0,5.62,2026-05-15,Pending,False,False
+ORD-0685,Customer 205,Amman,Mouse,3.0,16.92,2026-08-26,Pending,False,False
+ORD-0321,Customer 125,Irbid,Keyboard,2.0,45.94,2026-10-20,Delivered,True,False
+ORD-0520,Customer 147,Salt,Notebook,3.0,74.06,2026-07-02,Delivered,False,False
+ORD-0788,Customer 141,Irbid,USB Drive,4.0,90.97,2026-03-20,Cancelled,False,False
+ORD-0599,Customer 202,Salt,Mouse,1.0,34.76,2026-04-20,Delivered,False,False
+ORD-0593,Customer 010,Aqaba,Mouse,2.0,62.31,2026-09-12,Cancelled,False,False
+ORD-0530,Customer 140,Salt,USB Drive,2.0,22.34,2026-10-02,Pending,False,False
+ORD-0747,Customer 111,Irbid,USB Drive,5.0,-5.0,2026-06-17,Cancelled,False,False
+ORD-0003,Customer 011,Aqaba,Notebook,2.0,-5.0,2026-04-23,Pending,False,False
+ORD-0750,Customer 084,Zarqa,Keyboard,1.0,40.91,2026-07-22,Pending,False,False
+ORD-0471,Customer 171,Irbid,USB Drive,3.0,72.21,2026-09-25,Cancelled,False,False
+ORD-0641,Customer 110,Amman,Notebook,1.0,15.93,2026-02-07,Cancelled,False,False
+ORD-0563,Customer 046,Amman,USB Drive,3.0,31.61,2026-05-08,Delivered,False,True
+ORD-0431,Customer 144,Aqaba,Notebook,5.0,7.96,2026-01-18,Pending,False,False
+ORD-0029,Customer 011,Irbid,Keyboard,5.0,96.58,2026-06-24,Delivered,False,False
+ORD-0439,Customer 186,Salt,Mouse,3.0,48.19,2026-08-23,Delivered,False,False
+ORD-0493,Customer 016,Amman,Notebook,1.0,52.73,2026-02-22,Delivered,False,False
+ORD-0301,Customer 087,Aqaba,Mouse,4.0,9.85,2026-03-03,Pending,False,False
+ORD-0072,Customer 015,Irbid,Mouse,5.0,26.59,2026-08-22,Delivered,False,False
+ORD-0772,Customer 157,Salt,Keyboard,3.0,90.19,2026-06-07,Delivered,False,False
+ORD-0182,Customer 138,Salt,Notebook,3.0,80.07,2026-05-22,Pending,False,False
+ORD-0201,Customer 050,Aqaba,USB Drive,3.0,44.45,2026-09-09,Pending,False,False
+ORD-0276,Customer 154,Amman,Headphones,2.0,6.0,2026-06-07,Pending,False,False
+ORD-0202,Customer 205,Salt,Mouse,2.0,56.21,2026-04-03,Pending,False,False
+ORD-0765,Customer 143,Amman,USB Drive,5.0,86.43,2026-02-08,Cancelled,False,False
+ORD-0950,Customer 095,Irbid,USB Drive,4.0,43.83,2026-07-06,Pending,False,False
+ORD-0357,Customer 216,Amman,Mouse,5.0,42.93,2026-03-06,Pending,False,False
+ORD-0173,Customer 176,Salt,Headphones,3.0,83.99,2026-07-14,Cancelled,False,True
+ORD-0008,Customer 100,Salt,Notebook,3.0,16.64,2026-05-15,Delivered,False,True
+ORD-0543,Customer 075,Salt,USB Drive,2.0,97.28,2026-03-15,Delivered,False,False
+ORD-0229,Customer 149,Zarqa,USB Drive,2.0,49.68,2026-02-01,Pending,False,False
+ORD-0338,Customer 037,Zarqa,USB Drive,4.0,37.03,2026-05-16,Cancelled,False,False
+ORD-0335,Customer 057,Irbid,Mouse,3.0,8.14,2026-06-26,Delivered,False,True
+ORD-0910,Customer 155,Zarqa,USB Drive,3.0,98.74,2026-05-24,Pending,False,True
+ORD-0774,Customer 004,Salt,Keyboard,1.0,14.65,2026-06-04,Cancelled,False,False
+ORD-0905,Customer 017,Amman,Headphones,1.0,24.89,2026-01-13,Pending,False,False
+ORD-0028,Customer 146,Amman,Notebook,1.0,41.83,2026-07-25,Delivered,False,False
+ORD-0288,Customer 184,Salt,Notebook,5.0,39.24,2026-10-08,Delivered,False,False
+ORD-0702,Customer 019,Zarqa,Keyboard,1.0,66.86,2026-09-12,Cancelled,False,False
+ORD-0916,Customer 196,Irbid,USB Drive,2.0,43.05,2026-07-16,Pending,False,False
+ORD-0889,Customer 107,Irbid,Mouse,5.0,86.33,2026-07-01,Pending,False,False
+ORD-0890,Customer 028,Amman,Headphones,5.0,15.75,2026-09-08,Pending,False,False
+ORD-0325,Customer 060,Irbid,Mouse,2.0,38.07,2026-02-10,Cancelled,False,False
+ORD-0420,Customer 107,Irbid,Mouse,1.0,17.26,2026-05-05,Pending,False,False
+ORD-0909,Customer 209,Amman,Notebook,5.0,90.24,2026-07-26,Cancelled,False,False
+ORD-0742,Customer 061,Amman,Notebook,2.0,30.49,2026-04-20,Delivered,False,False
+ORD-0757,Customer 149,Irbid,Keyboard,2.0,65.68,2026-06-25,Cancelled,False,False
+ORD-0679,Customer 094,Amman,USB Drive,1.0,61.73,2026-04-04,Cancelled,False,False
+ORD-0817,Customer 163,Irbid,Notebook,4.0,13.5,2026-07-27,Cancelled,False,False
+ORD-0926,Customer 076,Irbid,Notebook,5.0,50.77,2026-06-04,Pending,True,False
+ORD-0744,Customer 160,Amman,Headphones,5.0,79.13,2026-10-01,Cancelled,False,False
+ORD-0612,Customer 063,Salt,Headphones,1.0,85.43,2026-06-14,Pending,False,False
+ORD-0482,Customer 007,Irbid,Notebook,5.0,15.52,2026-05-02,Delivered,False,False
+ORD-0329,Customer 158,Irbid,Headphones,4.0,52.81,2026-08-26,Cancelled,True,False
+ORD-0300,Customer 028,Amman,USB Drive,3.0,39.67,2026-03-17,Pending,False,False
+ORD-0118,Customer 022,Irbid,USB Drive,1.0,46.63,2026-07-16,Cancelled,False,False
+ORD-0754,Customer 149,Amman,USB Drive,5.0,73.05,2026-04-15,Cancelled,False,False
+ORD-0181,Customer 210,Zarqa,Notebook,3.0,23.83,2026-10-20,Delivered,False,False
+ORD-0058,Customer 011,Salt,Mouse,2.0,12.44,2026-04-17,Cancelled,False,False
+ORD-0598,Customer 096,Amman,Headphones,1.0,7.03,2026-05-03,Pending,False,False
+ORD-0395,Customer 171,Zarqa,Headphones,4.0,89.89,2026-09-22,Pending,False,False
+ORD-0361,Customer 055,Irbid,Keyboard,2.0,43.56,2026-05-25,Cancelled,False,False
+ORD-0152,Customer 159,Amman,USB Drive,2.0,76.47,2026-02-26,Pending,False,False
+ORD-0636,Customer 082,Amman,USB Drive,1.0,46.78,2026-09-21,Pending,False,False
+ORD-0935,Customer 013,Amman,Notebook,1.0,57.58,2026-04-11,Pending,False,False
+ORD-0938,Customer 017,Amman,Notebook,5.0,83.37,2026-06-03,Pending,False,False
+ORD-0090,Customer 198,Zarqa,Mouse,4.0,8.26,2026-01-13,Cancelled,False,False
+ORD-0785,Customer 118,Salt,Keyboard,4.0,34.65,2026-04-20,Delivered,False,False
+ORD-0254,Customer 155,Salt,Headphones,1.0,6.63,2026-06-20,Pending,False,False
+ORD-0042,Customer 181,Zarqa,USB Drive,4.0,94.63,2026-02-06,Pending,False,False
+ORD-0560,Customer 132,Zarqa,USB Drive,3.0,21.32,2026-10-14,Cancelled,False,False
+ORD-0700,Customer 043,Salt,Keyboard,5.0,63.03,2026-07-13,Pending,False,False
+ORD-0418,Customer 042,Aqaba,Notebook,5.0,93.2,2026-10-13,Cancelled,False,False
+ORD-0126,Customer 108,Salt,Keyboard,5.0,35.09,2026-08-18,Delivered,False,False
+ORD-0426,Customer 062,Aqaba,Mouse,2.0,47.65,2026-09-23,Cancelled,False,False
+ORD-0430,Customer 216,Aqaba,Mouse,1.0,59.79,2026-02-02,Pending,False,False
+ORD-0746,Customer 193,Aqaba,Notebook,5.0,15.06,2026-04-20,Cancelled,False,False
+ORD-0208,Customer 205,Irbid,USB Drive,4.0,54.58,2026-04-15,Delivered,False,False
+ORD-0948,Customer 038,Irbid,Notebook,1.0,59.51,2026-10-23,Pending,False,False
+ORD-0199,Customer 123,Zarqa,Notebook,2.0,25.39,2026-10-17,Pending,False,False
+ORD-0531,Customer 106,Irbid,USB Drive,4.0,13.51,2026-01-16,Pending,False,False
+ORD-0574,Customer 069,Irbid,USB Drive,2.0,47.09,2026-03-21,Cancelled,False,False
+ORD-0615,Customer 142,Irbid,Keyboard,4.0,48.55,2026-01-13,Delivered,False,False
+ORD-0285,Customer 079,Irbid,Notebook,3.0,11.62,2026-03-24,Cancelled,False,False
+ORD-0086,Customer 029,Amman,USB Drive,2.0,54.31999999999999,2026-04-18,Delivered,True,False
+ORD-0658,Customer 019,Aqaba,USB Drive,3.0,12.2,2026-06-09,Cancelled,False,False
+ORD-0529,Customer 138,Aqaba,Keyboard,4.0,30.6,2026-08-28,Cancelled,False,False
+ORD-0660,Customer 178,Irbid,Notebook,5.0,21.78,2026-05-26,Cancelled,False,False
+ORD-0868,Customer 143,Amman,Keyboard,1.0,40.13,2026-03-04,Cancelled,False,False
+ORD-0107,Customer 131,Aqaba,Notebook,3.0,12.08,2026-02-06,Cancelled,False,False
+ORD-0164,Customer 043,Irbid,Notebook,4.0,19.9,2026-07-19,Delivered,False,False
+ORD-0142,Customer 197,Aqaba,Keyboard,4.0,12.99,2026-01-25,Cancelled,False,False
+ORD-0701,Customer 003,Zarqa,USB Drive,5.0,54.31999999999999,2026-02-12,Pending,True,False
+ORD-0307,Customer 031,Salt,Mouse,5.0,62.77,2026-08-13,Cancelled,False,False
+ORD-0336,Customer 084,Zarqa,Mouse,4.0,64.45,2026-06-19,Pending,False,False
+ORD-0661,Customer 157,Zarqa,USB Drive,5.0,52.47,2026-04-04,Cancelled,False,False
+ORD-0220,Customer 103,Amman,Mouse,4.0,73.06,2026-10-10,Pending,False,False
+ORD-0629,Customer 095,Salt,Keyboard,1.0,94.03,2026-10-12,Pending,False,False
+ORD-0002,Customer 095,Salt,Headphones,2.0,52.81,2026-01-01,Cancelled,True,False
+ORD-0877,Customer 092,Zarqa,Notebook,1.0,20.05,2026-04-14,Pending,False,False
+ORD-0811,Customer 200,Aqaba,USB Drive,2.0,20.26,2026-06-02,Delivered,False,False
+ORD-0230,Customer 144,Zarqa,Mouse,5.0,90.42,2026-08-15,Delivered,False,False
+ORD-0016,Customer 042,Amman,Keyboard,4.0,51.64,2026-04-08,Cancelled,False,False
+ORD-0673,Customer 144,Irbid,Headphones,5.0,35.56,2026-04-16,Pending,False,False
+ORD-0670,Customer 217,Amman,USB Drive,2.0,36.32,2026-05-01,Delivered,False,False
+ORD-0123,Customer 191,Aqaba,Keyboard,3.0,58.04,2026-07-18,Delivered,False,False
+ORD-0770,Customer 177,Salt,Notebook,2.0,49.72,2026-10-12,Cancelled,False,False
+ORD-0486,Customer 132,Zarqa,Notebook,3.0,94.54,2026-01-02,Cancelled,False,False
+ORD-0283,Customer 164,Amman,Mouse,3.0,72.06,2026-10-08,Delivered,False,False
+ORD-0771,Customer 005,Aqaba,Headphones,2.0,14.59,2026-04-06,Pending,False,False
+ORD-0041,Customer 021,Zarqa,Mouse,1.0,73.06,2026-09-06,Cancelled,False,False
+ORD-0244,Customer 214,Aqaba,Headphones,3.0,14.76,2026-03-07,Pending,False,True
+ORD-0067,Customer 109,Zarqa,USB Drive,2.0,33.13,2026-04-22,Cancelled,False,False
+ORD-0161,Customer 058,Zarqa,USB Drive,4.0,85.6,2026-10-17,Delivered,False,False
+ORD-0094,Customer 079,Amman,Mouse,2.0,35.86,2026-03-10,Pending,False,False
+ORD-0665,Customer 156,Amman,Keyboard,1.0,91.02,2026-10-26,Delivered,False,False
+ORD-0433,Customer 023,Amman,Mouse,1.0,65.08,2026-03-15,Cancelled,False,False
+ORD-0536,Customer 181,Aqaba,USB Drive,4.0,54.41,2026-02-26,Pending,False,False
+ORD-0328,Customer 100,Aqaba,Headphones,4.0,34.2,2026-03-06,Pending,False,False
+ORD-0539,Customer 002,Irbid,Keyboard,1.0,70.3,2026-01-11,Cancelled,False,False
+ORD-0245,Customer 098,Salt,USB Drive,3.0,54.31999999999999,2026-09-26,Pending,True,False
+ORD-0312,Customer 187,Irbid,Keyboard,4.0,45.94,2026-01-04,Pending,True,False
+ORD-0432,Customer 013,Salt,Mouse,4.0,36.49,2026-01-17,Cancelled,False,False
+ORD-0753,Customer 041,Irbid,Headphones,5.0,18.0,2026-08-28,Pending,False,False
+ORD-0166,Customer 164,Amman,Headphones,5.0,66.15,2026-04-16,Cancelled,False,False
+ORD-0896,Customer 066,Zarqa,Notebook,1.0,12.43,2026-08-08,Delivered,False,False
+ORD-0947,Customer 022,Aqaba,Keyboard,2.0,52.21,2026-04-06,Delivered,False,False
+ORD-0401,Customer 063,Salt,Keyboard,3.0,45.94,2026-08-07,Pending,True,False
+ORD-0346,Customer 072,Irbid,Keyboard,1.0,67.78,2026-05-23,Delivered,False,False
+ORD-0523,Customer 139,Aqaba,Mouse,5.0,15.49,2026-08-19,Delivered,False,False
+ORD-0014,Customer 041,Irbid,Notebook,2.0,21.03,2026-04-20,Cancelled,False,False
+ORD-0056,Customer 009,Irbid,Notebook,3.0,60.6,2026-07-06,Delivered,False,False
+ORD-0376,Customer 124,Irbid,USB Drive,1.0,99.76,2026-02-26,Cancelled,False,False
+ORD-0633,Customer 024,Zarqa,Notebook,4.0,58.37,2026-08-01,Delivered,False,False
+ORD-0004,Customer 178,Aqaba,USB Drive,3.0,46.97,2026-09-16,Delivered,False,False
+ORD-0794,Customer 122,Aqaba,Notebook,5.0,41.85,2026-05-11,Pending,False,False
+ORD-0242,Customer 016,Irbid,Keyboard,2.0,10.65,2026-08-21,Cancelled,False,False
+ORD-0898,Customer 215,Zarqa,Mouse,4.0,26.69,2026-08-15,Cancelled,False,False
+ORD-0070,Customer 057,Amman,Keyboard,3.0,60.71,2026-03-24,Delivered,False,False
+ORD-0828,Customer 111,Amman,Notebook,1.0,91.4,2026-04-16,Cancelled,False,False
+ORD-0299,Customer 094,Irbid,Mouse,2.0,35.15,2026-03-09,Pending,False,False
+ORD-0511,Customer 162,Aqaba,Keyboard,4.0,34.68,2026-03-15,Pending,False,False
+ORD-0151,Customer 103,Irbid,Keyboard,5.0,64.73,2026-09-17,Pending,False,False
+ORD-0728,Customer 097,Amman,Headphones,1.0,45.08,2026-07-15,Pending,False,False
+ORD-0656,Customer 171,Irbid,Notebook,4.0,28.64,2026-02-19,Pending,False,False
+ORD-0068,Customer 111,Aqaba,Mouse,2.0,76.38,2026-05-06,Pending,False,False
+ORD-0460,Customer 190,Zarqa,Notebook,1.0,16.36,2026-02-10,Delivered,False,False
+ORD-0138,Customer 038,Aqaba,Mouse,4.0,82.97,2026-01-06,Delivered,False,False
+ORD-0284,Customer 196,Aqaba,USB Drive,5.0,93.54,2026-05-08,Pending,False,False
+ORD-0698,Customer 076,Salt,Keyboard,5.0,71.75,2026-08-12,Delivered,False,False
+ORD-0121,Customer 113,Salt,Mouse,5.0,39.53,2026-07-26,Pending,False,False
+ORD-0776,Customer 012,Salt,Keyboard,2.0,45.94,2026-09-09,Cancelled,True,False
+ORD-0865,Customer 205,Amman,Mouse,3.0,46.8,2026-04-16,Cancelled,False,True
+ORD-0657,Customer 086,Aqaba,Mouse,3.0,11.97,2026-07-23,Pending,False,False
+ORD-0216,Customer 096,Irbid,USB Drive,4.0,31.3,2026-09-01,Delivered,False,False
+ORD-0525,Customer 084,Irbid,Headphones,3.0,96.46,2026-07-14,Delivered,False,False
+ORD-0383,Customer 076,Irbid,Keyboard,5.0,87.28,2026-08-18,Cancelled,False,False
+ORD-0917,Customer 181,Aqaba,Keyboard,3.0,16.63,2026-05-04,Cancelled,False,False
+ORD-0941,Customer 046,Zarqa,Headphones,4.0,97.02,2026-06-15,Delivered,False,False
+ORD-0251,Customer 197,Amman,USB Drive,3.0,54.31999999999999,2026-07-03,Delivered,True,False
+ORD-0198,Customer 096,Amman,Keyboard,1.0,12.11,2026-05-26,Cancelled,False,False
+ORD-0427,Customer 118,Irbid,Notebook,1.0,50.77,2026-03-23,Pending,True,False
+ORD-0469,Customer 017,Aqaba,USB Drive,1.0,71.85,2026-09-23,Delivered,False,False
+ORD-0082,Customer 132,Zarqa,Headphones,4.0,37.91,2026-08-24,Cancelled,False,False
+ORD-0671,Customer 169,Amman,USB Drive,3.0,76.04,2026-02-12,Delivered,False,False
+ORD-0498,Customer 159,Aqaba,Mouse,3.0,99.22,2026-08-09,Cancelled,False,False
+ORD-0139,Customer 206,Salt,Mouse,4.0,66.16,2026-03-13,Pending,False,False
+ORD-0174,Customer 088,Irbid,Headphones,5.0,55.38,2026-05-15,Pending,False,False
+ORD-0386,Customer 184,Amman,Headphones,5.0,52.1,2026-04-22,Delivered,False,False
+ORD-0481,Customer 016,Salt,USB Drive,4.0,38.68,2026-08-26,Pending,False,False
+ORD-0617,Customer 033,Zarqa,Keyboard,4.0,71.26,2026-01-03,Delivered,False,False
+ORD-0834,Customer 088,Salt,Notebook,2.0,15.71,2026-02-17,Cancelled,False,False
+ORD-0063,Customer 053,Aqaba,Headphones,5.0,22.32,2026-09-14,Delivered,False,False
+ORD-0800,Customer 198,Amman,Keyboard,2.0,40.71,2026-01-24,Cancelled,False,False
+ORD-0780,Customer 071,Zarqa,Mouse,3.0,79.07,2026-04-20,Delivered,False,False
+ORD-0435,Customer 021,Zarqa,Keyboard,1.0,61.68,2026-04-09,Pending,False,False
+ORD-0586,Customer 200,Amman,Headphones,5.0,29.52,2026-09-22,Cancelled,False,False
+ORD-0479,Customer 207,Salt,Keyboard,4.0,12.81,2026-04-20,Cancelled,False,False
+ORD-0237,Customer 118,Zarqa,USB Drive,5.0,45.65,2026-07-06,Delivered,False,False
+ORD-0684,Customer 175,Amman,Notebook,5.0,92.1,2026-01-28,Cancelled,False,False
+ORD-0293,Customer 117,Amman,Mouse,2.0,69.63,2026-09-28,Cancelled,False,False
+ORD-0494,Customer 009,Salt,Notebook,4.0,80.51,2026-03-13,Cancelled,False,False
+ORD-0540,Customer 116,Amman,USB Drive,3.0,72.12,2026-02-02,Cancelled,False,False
+ORD-0091,Customer 121,Aqaba,Headphones,1.0,8.6,2026-05-25,Cancelled,False,False
+ORD-0799,Customer 152,Salt,Headphones,4.0,25.91,2026-03-28,Cancelled,False,False
+ORD-0582,Customer 207,Salt,Mouse,5.0,42.68,2026-10-08,Cancelled,False,False
+ORD-0084,Customer 205,Salt,Notebook,2.0,37.76,2026-03-01,Delivered,False,False
+ORD-0371,Customer 005,Salt,USB Drive,5.0,33.64,2026-07-26,Pending,False,False
+ORD-0467,Customer 148,Aqaba,Notebook,5.0,56.97,2026-01-28,Delivered,False,False
+ORD-0499,Customer 072,Salt,Keyboard,5.0,81.06,2026-06-28,Cancelled,False,False
+ORD-0610,Customer 016,Amman,Headphones,1.0,52.81,2026-01-20,Pending,True,False
+ORD-0454,Customer 143,Aqaba,Headphones,3.0,28.87,2026-01-11,Cancelled,False,False
+ORD-0233,Customer 077,Salt,Notebook,3.0,83.58,2026-03-13,Cancelled,False,False
+ORD-0259,Customer 200,Zarqa,USB Drive,3.0,95.61,2026-06-16,Cancelled,False,False
+ORD-0207,Customer 112,Aqaba,Notebook,5.0,38.83,2026-08-05,Delivered,False,False
+ORD-0621,Customer 099,Zarqa,Notebook,5.0,20.96,2026-04-14,Pending,False,False
+ORD-0459,Customer 039,Irbid,Notebook,1.0,40.43,2026-03-10,Cancelled,False,False
+ORD-0157,Customer 006,Zarqa,Notebook,4.0,50.77,2026-05-01,Cancelled,True,False
+ORD-0565,Customer 130,Zarqa,Mouse,4.0,-5.0,2026-04-01,Delivered,False,False
+ORD-0893,Customer 054,Irbid,Notebook,1.0,96.28,2026-09-12,Pending,False,False
+ORD-0756,Customer 016,Irbid,Keyboard,3.0,20.63,2026-06-14,Delivered,False,True
+ORD-0686,Customer 012,Aqaba,Keyboard,1.0,53.6,2026-10-13,Delivered,False,False
+ORD-0488,Customer 141,Salt,Notebook,4.0,9.86,2026-09-08,Pending,False,False
+ORD-0310,Customer 217,Salt,USB Drive,1.0,41.26,2026-03-22,Pending,False,False
+ORD-0860,Customer 006,Irbid,USB Drive,2.0,26.12,2026-08-07,Delivered,False,False
+ORD-0647,Customer 101,Irbid,USB Drive,5.0,40.91,2026-05-23,Pending,False,False
+ORD-0833,Customer 135,Zarqa,Notebook,2.0,27.45,2026-04-01,Cancelled,False,False
+ORD-0534,Customer 144,Aqaba,Mouse,4.0,96.81,2026-07-11,Delivered,False,False
+ORD-0682,Customer 125,Zarqa,Notebook,3.0,17.95,2026-06-26,Pending,False,False
+ORD-0355,Customer 018,Aqaba,Headphones,2.0,80.92,2026-02-16,Cancelled,False,False
+ORD-0717,Customer 127,Irbid,Notebook,5.0,73.59,2026-02-21,Pending,False,False
+ORD-0038,Customer 155,Zarqa,Notebook,4.0,50.57,2026-06-23,Delivered,False,False
+ORD-0863,Customer 129,Aqaba,USB Drive,2.0,41.67,2026-05-15,Cancelled,False,False
+ORD-0918,Customer 063,Salt,Keyboard,1.0,51.1,2026-01-11,Pending,False,False
+ORD-0136,Customer 173,Irbid,USB Drive,5.0,54.31999999999999,2026-09-24,Cancelled,True,False
+ORD-0942,Customer 218,Amman,Notebook,4.0,65.54,2026-08-06,Delivered,False,False
+ORD-0625,Customer 172,Salt,Keyboard,2.0,39.81,2026-03-19,Cancelled,False,False
+ORD-0396,Customer 106,Zarqa,Headphones,4.0,94.2,2026-07-19,Cancelled,False,False
+ORD-0168,Customer 099,Zarqa,Keyboard,3.0,44.79,2026-05-12,Pending,False,True
+ORD-0849,Customer 025,Zarqa,USB Drive,4.0,80.85,2026-08-23,Pending,False,False
+ORD-0156,Customer 099,Zarqa,Notebook,2.0,70.32,2026-08-26,Pending,False,False
+ORD-0876,Customer 125,Aqaba,Mouse,4.0,50.67,2026-07-03,Pending,False,False
+ORD-0857,Customer 043,Zarqa,USB Drive,3.0,98.8,2026-01-12,Delivered,False,False
+ORD-0584,Customer 007,Aqaba,Headphones,5.0,82.48,2026-04-20,Pending,False,False
+ORD-0651,Customer 160,Amman,Headphones,3.0,8.32,2026-07-13,Pending,False,False
+ORD-0415,Customer 197,Salt,USB Drive,4.0,12.14,2026-02-13,Cancelled,False,False
+ORD-0327,Customer 012,Aqaba,Mouse,2.0,44.35,2026-03-27,Cancelled,False,False
+ORD-0923,Customer 206,Zarqa,Headphones,1.0,83.53,2026-09-12,Cancelled,False,False
+ORD-0103,Customer 204,Aqaba,Notebook,3.0,50.77,2026-05-07,Cancelled,True,False
+ORD-0650,Customer 131,Amman,Headphones,2.0,20.72,2026-03-28,Pending,False,False
+ORD-0517,Customer 217,Irbid,Mouse,2.0,65.86,2026-08-25,Pending,False,False
+ORD-0064,Customer 062,Salt,USB Drive,4.0,32.17,2026-06-03,Pending,False,False
+ORD-0769,Customer 097,Salt,Keyboard,5.0,5.8,2026-04-20,Pending,False,False
+ORD-0659,Customer 090,Aqaba,Mouse,1.0,47.65,2026-01-12,Pending,True,False
+ORD-0341,Customer 014,Zarqa,Keyboard,1.0,70.02,2026-09-26,Delivered,False,False
+ORD-0331,Customer 194,Salt,Keyboard,3.0,72.3,2026-01-15,Cancelled,False,True
+ORD-0749,Customer 092,Zarqa,USB Drive,2.0,10.79,2026-08-18,Delivered,False,False
+ORD-0147,Customer 216,Aqaba,Mouse,2.0,89.85,2026-03-15,Pending,False,False
+ORD-0344,Customer 137,Irbid,Keyboard,1.0,8.9,2026-02-11,Pending,False,False
+ORD-0914,Customer 217,Irbid,USB Drive,4.0,82.53,2026-09-23,Pending,False,False
+ORD-0108,Customer 101,Zarqa,Mouse,3.0,87.86,2026-07-25,Cancelled,False,False
+ORD-0485,Customer 154,Salt,Headphones,1.0,76.37,2026-06-16,Cancelled,False,False
+ORD-0572,Customer 172,Amman,Notebook,4.0,79.83,2026-01-19,Delivered,False,False
+ORD-0571,Customer 161,Irbid,Headphones,3.0,90.54,2026-03-24,Delivered,False,False
+ORD-0496,Customer 214,Zarqa,Headphones,5.0,97.78,2026-02-24,Cancelled,False,False
+ORD-0723,Customer 207,Zarqa,USB Drive,5.0,92.32,2026-01-28,Cancelled,False,False
+ORD-0690,Customer 064,Salt,Headphones,3.0,95.87,2026-04-19,Cancelled,False,False
+ORD-0710,Customer 078,Amman,USB Drive,1.0,81.45,2026-10-01,Pending,False,False
+ORD-0375,Customer 034,Irbid,Notebook,1.0,27.84,2026-04-16,Pending,False,False
+ORD-0940,Customer 164,Amman,Notebook,5.0,48.87,2026-02-16,Cancelled,False,False
+ORD-0172,Customer 109,Salt,Notebook,2.0,80.96,2026-08-22,Pending,False,False
+ORD-0767,Customer 180,Irbid,Notebook,1.0,12.2,2026-10-21,Pending,False,False
+ORD-0603,Customer 212,Zarqa,Mouse,3.0,57.54,2026-01-13,Delivered,False,False
+ORD-0564,Customer 015,Zarqa,USB Drive,1.0,58.95,2026-04-23,Pending,False,False
+ORD-0683,Customer 201,Salt,Notebook,2.0,32.72,2026-01-07,Delivered,False,False
+ORD-0197,Customer 041,Aqaba,USB Drive,4.0,16.33,2026-10-19,Delivered,False,False
+ORD-0111,Customer 201,Zarqa,Headphones,1.0,65.06,2026-05-26,Delivered,False,False
+ORD-0277,Customer 178,Aqaba,Keyboard,4.0,37.07,2026-10-05,Pending,False,False
+ORD-0708,Customer 179,Aqaba,Notebook,1.0,58.83,2026-06-13,Pending,False,False
+ORD-0206,Customer 202,Salt,USB Drive,1.0,63.16,2026-04-10,Cancelled,False,False
+ORD-0473,Customer 143,Aqaba,Notebook,2.0,5.98,2026-08-09,Pending,False,False
+ORD-0699,Customer 112,Zarqa,Mouse,4.0,11.84,2026-01-21,Delivered,False,False
+ORD-0405,Customer 064,Zarqa,Mouse,4.0,71.27,2026-04-05,Delivered,False,False
+ORD-0639,Customer 110,Irbid,Mouse,3.0,99.9,2026-03-15,Delivered,False,False
+ORD-0446,Customer 080,Irbid,USB Drive,3.0,46.3,2026-09-17,Pending,False,False
+ORD-0809,Customer 078,Zarqa,Mouse,3.0,30.17,2026-09-18,Cancelled,False,False
+ORD-0737,Customer 054,Salt,Mouse,4.0,85.96,2026-03-15,Delivered,False,False
+ORD-0605,Customer 184,Aqaba,Mouse,5.0,56.73,2026-05-12,Cancelled,False,False
+ORD-0591,Customer 196,Amman,Keyboard,4.0,96.75,2026-08-14,Delivered,False,False
+ORD-0368,Customer 010,Amman,Notebook,3.0,75.08,2026-08-28,Pending,False,True
+ORD-0490,Customer 198,Zarqa,Mouse,2.0,57.08,2026-10-03,Delivered,False,False
+ORD-0348,Customer 055,Irbid,Notebook,1.0,89.1,2026-02-05,Cancelled,False,False
+ORD-0869,Customer 051,Amman,Headphones,5.0,91.2,2026-03-12,Pending,False,False
+ORD-0037,Customer 125,Aqaba,Mouse,4.0,80.77,2026-07-11,Delivered,False,False
+ORD-0758,Customer 145,Irbid,Headphones,3.0,69.07,2026-03-15,Delivered,False,False
+ORD-0393,Customer 065,Amman,Mouse,4.0,22.16,2026-05-11,Delivered,False,False
+ORD-0211,Customer 092,Amman,Headphones,1.0,44.02,2026-08-04,Delivered,False,False
+ORD-0378,Customer 213,Amman,Mouse,5.0,11.48,2026-02-03,Pending,False,False
+ORD-0622,Customer 209,Aqaba,Notebook,1.0,90.23,2026-10-03,Cancelled,False,False
+ORD-0695,Customer 017,Salt,Keyboard,2.0,31.67,2026-10-01,Cancelled,False,False
+ORD-0578,Customer 172,Amman,USB Drive,1.0,77.39,2026-10-21,Pending,False,False
+ORD-0861,Customer 210,Amman,USB Drive,3.0,48.43,2026-03-05,Pending,False,False
+ORD-0589,Customer 124,Salt,Mouse,1.0,83.29,2026-09-28,Cancelled,False,False
+ORD-0120,Customer 113,Amman,Keyboard,1.0,54.5,2026-02-28,Delivered,False,False
+ORD-0786,Customer 119,Zarqa,Keyboard,1.0,88.56,2026-08-19,Delivered,False,False
+ORD-0648,Customer 019,Amman,Mouse,1.0,38.52,2026-08-17,Cancelled,False,False
+ORD-0784,Customer 083,Zarqa,Mouse,3.0,10.09,2026-02-02,Pending,False,False
+ORD-0719,Customer 124,Amman,Notebook,1.0,22.84,2026-10-09,Delivered,False,False
+ORD-0492,Customer 017,Zarqa,Keyboard,2.0,24.09,2026-03-28,Pending,False,False
+ORD-0387,Customer 201,Amman,Headphones,3.0,12.68,2026-07-27,Pending,False,False
+ORD-0403,Customer 136,Amman,Keyboard,5.0,12.01,2026-06-16,Pending,False,False
+ORD-0839,Customer 158,Amman,Keyboard,2.0,8.3,2026-02-25,Cancelled,False,False
+ORD-0191,Customer 020,Irbid,Notebook,4.0,-5.0,2026-08-28,Pending,False,False
+ORD-0903,Customer 024,Salt,Keyboard,1.0,45.94,2026-09-23,Delivered,True,False
+ORD-0763,Customer 056,Aqaba,Notebook,5.0,24.26,2026-03-15,Delivered,False,False
+ORD-0125,Customer 072,Aqaba,Keyboard,2.0,53.98,2026-09-16,Delivered,False,False
+ORD-0797,Customer 055,Amman,Keyboard,1.0,45.79,2026-07-15,Delivered,False,False
+ORD-0847,Customer 124,Amman,Mouse,3.0,70.66,2026-01-11,Pending,False,True
+ORD-0538,Customer 208,Salt,USB Drive,4.0,31.68,2026-04-20,Delivered,False,False
+ORD-0812,Customer 025,Zarqa,Headphones,4.0,28.21,2026-09-10,Pending,False,False
+ORD-0852,Customer 076,Aqaba,Notebook,2.0,43.73,2026-05-15,Pending,False,False
+ORD-0779,Customer 059,Aqaba,Headphones,4.0,54.61,2026-05-15,Pending,False,False
+ORD-0503,Customer 076,Zarqa,Notebook,3.0,55.41,2026-02-15,Delivered,False,False
+ORD-0911,Customer 164,Aqaba,Notebook,1.0,-5.0,2026-06-04,Delivered,False,False
+ORD-0472,Customer 086,Salt,Keyboard,1.0,22.87,2026-03-12,Pending,False,False
+ORD-0226,Customer 115,Salt,Headphones,1.0,98.58,2026-02-16,Delivered,False,False
+ORD-0456,Customer 052,Salt,Notebook,5.0,71.96,2026-04-06,Cancelled,False,False
+ORD-0141,Customer 103,Amman,Keyboard,4.0,8.76,2026-06-18,Cancelled,False,False
+ORD-0258,Customer 159,Aqaba,Keyboard,2.0,41.27,2026-04-20,Delivered,False,False
+ORD-0317,Customer 135,Salt,Mouse,1.0,46.06,2026-03-19,Cancelled,False,False
+ORD-0936,Customer 157,Irbid,Mouse,4.0,63.48,2026-10-10,Cancelled,False,False
+ORD-0664,Customer 198,Amman,Notebook,4.0,90.52,2026-06-21,Delivered,False,False
+ORD-0881,Customer 033,Aqaba,Notebook,5.0,44.03,2026-05-07,Cancelled,False,False
+ORD-0882,Customer 097,Irbid,USB Drive,3.0,95.39,2026-09-13,Pending,False,False
+ORD-0231,Customer 122,Salt,USB Drive,3.0,61.01,2026-05-20,Pending,False,False
+ORD-0801,Customer 205,Aqaba,Keyboard,1.0,81.54,2026-09-19,Pending,False,False
+ORD-0298,Customer 212,Salt,USB Drive,4.0,27.95,2026-05-09,Delivered,False,False
+ORD-0946,Customer 062,Salt,Mouse,3.0,97.71,2026-05-26,Pending,False,False
+ORD-0330,Customer 169,Salt,Notebook,1.0,72.91,2026-04-08,Cancelled,False,False

@@ -1,0 +1,16 @@
+Order_ID,Customer,City,Product,Quantity,Unit_Price,Order_Date,Status
+ORD-0444,Customer 170,Aqaba,USB Drive,5.0,-5.0,2026-08-23,Cancelled
+ORD-0462,Customer 136,Aqaba,Headphones,5.0,-5.0,2026-02-28,Pending
+ORD-0709,Customer 070,Aqaba,Notebook,3.0,-5.0,2026-05-04,Cancelled
+ORD-0645,Customer 023,Aqaba,USB Drive,5.0,-5.0,2026-05-06,Pending
+ORD-0314,Customer 182,Salt,USB Drive,5.0,-5.0,2026-07-10,Pending
+ORD-0649,Customer 075,Zarqa,Headphones,3.0,-5.0,2026-01-18,Delivered
+ORD-0912,Customer 011,Salt,Headphones,5.0,-5.0,2026-09-14,Cancelled
+ORD-0204,Customer 060,Salt,Notebook,2.0,-5.0,2026-02-03,Delivered
+ORD-0619,Customer 146,Amman,Keyboard,4.0,-5.0,2026-08-16,Delivered
+ORD-0400,Customer 166,Amman,Notebook,2.0,-5.0,2026-01-02,Pending
+ORD-0747,Customer 111,Irbid,USB Drive,5.0,-5.0,2026-06-17,Cancelled
+ORD-0003,Customer 011,Aqaba,Notebook,2.0,-5.0,2026-04-23,Pending
+ORD-0565,Customer 130,Zarqa,Mouse,4.0,-5.0,2026-04-01,Delivered
+ORD-0191,Customer 020,Irbid,Notebook,4.0,-5.0,2026-08-28,Pending
+ORD-0911,Customer 164,Aqaba,Notebook,1.0,-5.0,2026-06-04,Delivered
